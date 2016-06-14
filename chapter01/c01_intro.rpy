@@ -48,28 +48,28 @@ label start:
     A long sigh escaped my lips as I listened to the soft ticking of the clock that hung near the door and the gentle beeping of the heart monitor.
     How many times have I awoken to that same dream? [Pause]Possibly for four years now...
     Now that I think about it, that was the first time that Mother had said something to me before she left.
-    Maybe if I fell back to sleep, I could catch up to her and ask what she meant.
+    Maybe if I fall back to sleep, I can catch up to her and ask what she meant.
     ...No, dreams don't work like that.
-    The same dream has been replaying in my mind each night for four years, [Pause]but even so, I still had no knowledge of why my mother leaves me in the dream.
-    However, I knew why she left in real life... [Pause] It was the same reason why I lived in a hospital.
+    The same dream has been replaying in my mind each night for four years, [Pause]but even so, I still have no knowledge of why my mother leaves me in the dream.
+    However, I know why she left in real life... [Pause] It is the same reason why I live in a hospital.
     Feeling myself slowly drifting back to sleep, I let out another long sigh.
     As much as I wanted to fall into a deep slumber once again, I had a full day ahead of me.
     I pushed my body up with my elbows, my eyes slowly fluttering open.
-    Once I was propped up with my torso limply slouching over my legs, I glanced over to the clock. [Pause]It was seven in the morning.
-    I woke up right on time as always, this morning. [Pause]Maybe I really do have an alarm clock embedded into my body that wakes me up.
-    I arched my back a little, feeling the tension in my body disappear, and began to rub my eyes, yawning in the process.
-    I looked over to the right, where the only true window in my room hid behind the thick white curtains. [Pause]It looks like the weather will be nice today, based on the bright light coming out from under the curtains.
-    This room, room number 302, was often cloaked in darkness until the dawn. This is where the light finally begins to fill the room that I lived in.
-    To be more precise, I was in room 302, on the third floor of the west wing in Creed Hospital. [Pause]My room was the second largest room in the entire hospital, the largest being the delivery room.
-    It was a nice room overall, nicely decorated with furniture and large space, but I wished I didn't have so much.
-    I shouldn't have been the only one to get all the nice stuff. There were other children younger than me that resided in this hospital, after all.
-    In fact, I wished I didn't even have any of this extra furniture. [Pause]I would've traded it all for nothing more than a different colored room and a simple chair next to my bed, with the vase of flowers on the window sill.
+    Once I was propped up with my torso limply slouching over my legs, I glanced over to the clock. [Pause] It was seven in the morning.
+    I woke up right on time as always, this morning. [Pause] Maybe I really do have an alarm clock embedded into my body that wakes me up.
+    I arched my back a little, feeling the tension in my body disappear and began to rub my eyes, yawning in the process.
+    I looked over to the right, where the only true window in my room hid behind the thick white curtains. [Pause] It looks like the weather will be nice today, based on the bright light coming out from the bottom of the curtains.
+    This room, room number 302, was often cloaked in darkness until the dawn; this is where the light finally begins to fill the room that I lived in.
+    To be more precise, I was in Room 302, on the third floor of the west wing in Creed Hospital. [Pause] My room is the second largest room in the entire hospital, the largest being the delivery room.
+    It is a nice room overall, nicely decorated with furniture and large space, but I wish I didn't have so much.
+    I shouldn't be the only one who gets all the nice stuff. There are other children who are younger than myself that reside in this hospital, after all.
+    In fact, I wish I didn't even have any of these extra furniture. [Pause] I would trade it all for nothing more than a different colored room and a simple chair next to my bed, with the vase of flowers on the window sill.
     Something like this is probably only me, but when you enter a hospital room, it doesn't feel very welcoming.
-    When you enter, the room seems to emit a sad and cold atmosphere, thanks to the gray and gloomy color palette. [Pause]The first thing you see is the window and its curtains, which then makes you look at the color of the wall.
-    The moment you do, all of the furniture vanishes, as if it was covered by an invisible cloak or disappeared into thin air.
-    Recoloring the entire hospital would've been nice. It would've given each room its unique color of choice.
-    Let's see... My room probably would've look nice if it was colored... [Pause]Green. Yes, green is a nice cheerful color! It was one of my favorites!
-    But I supposed having every single hospital room recolored with such a bright color palette might give the visitors a slight spasm.
+    When you enter, the room seems to emit a sad and cold atmosphere, thanks to the gray and gloomy color palette. [Pause] The first thing you see is the window and its curtains, which then makes you look at the color of the wall.
+    The moment you do, all of the furniture vanishes, as if it was covered by an invisible cloak or disappearing into thin air.
+    Recoloring the entire hospital would be nice; it will give each room its unique color of choice.
+    Let's see... My room would probably look nice if it was colored... [Pause] Green. Yes, green is a nice cheerful color! It is one of my favorites!
+    But I suppose having every single hospital room recolored with such a bright color palette might give the visitors a slight spasm.
     And that wouldn't be very good. [Pause]  Rather, that would be horrible.
     [ADV Format]
     ??? "Nyu!"
