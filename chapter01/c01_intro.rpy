@@ -14,14 +14,9 @@ label start:
     The tall alder trees protect the flower at their base from the gentle drops of rain, causing the green grass to shine in the dew of the water.
     {Picture of meadow}
     Amidst this beauteous scenery, [Pause] there is a young mother and her daughter, calmly making flower crowns while listening to the soothing lullabies from the wind.
-<<<<<<< Updated upstream
     The mother has long beautiful blond hair that could light up the night sky, complemented with a pair of zircon colored eyes.
     "Tell me, dear..."
-=======
-    The mother has long beautiful blond hair that could light up the night sky, complemented by a pair of zircon colored eyes.
-    "Tell me, dear…"
->>>>>>> Stashed changes
-    began the mother as her fingers stopped tying the silky stems of flowers together.
+    ...began the mother as her fingers stopped tying the silky stems of flowers together.
     "What is the most painful thing that exists in this world?"
     "Um... I'm not sure, Mother. What is it?"
     The daughter replied, unsure of where the conversation was going.
