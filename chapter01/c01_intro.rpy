@@ -3,20 +3,20 @@ label start:
     [Chapter 1: The glaring moment]
     [NVL format]
     {Birds view of meadow}
-    There is a meadow, somewhere in the vast world of Mion, above where Ion sleeps.
-    The meadow has a secret that only those with the curse may lay. [Pause] Not even the dark lord who watches over them- Kxon- knows where this meadow lays.
+    Somewhere in the vast world of Mion, above where Ion sleeps, there is a meadow.
+    The meadow has a secret that only those with the curse may know. [Pause] Not even the dark lord who watches over them, Kxon, knows where this meadow lies.
     {Worms view of meadow}
-    The meadow is surrounded by tall, healthy, and green alder trees and lies beneath a bright blue sky. [Pause] But only small rays of the sun are allowed to penetrate into this peaceful tranquility.
+    The meadow is surrounded by tall, healthy, and green alder trees beneath a bright blue sky. [Pause] But only small rays of the sun are allowed to penetrate into this peaceful tranquility.
     {Picture of meadow}
-    It is a meadow filled with flowers that virtually covers the green grass. [Pause] The gentle flowers vary from yellow carnations, cosmos, irises, jasmines, lilies, orchids, and white roses.
-    In this meadow, flower petals dance elegantly in the gentle spring breeze; never learning of the cold and harsh touch of winter.
+    It is a meadow filled with flowers that virtually cover the green grass. [Pause] The gentle flowers vary from yellow carnations, cosmos, irises, jasmines, lilies, orchids, to white roses.
+    In this meadow, flower petals dance elegantly in the gentle spring breeze, never learning of the cold and harsh touch of winter.
     {Up close picture of grass with water droplets, flower and trees in the distance}
     The tall alder trees protect the flower at their base from the gentle drops of rain, causing the green grass to shine in the dew of the water.
     {Picture of meadow}
     Amidst this beauteous scenery, [Pause] there is a young mother and her daughter, calmly making flower crowns while listening to the soothing lullabies from the wind.
     The mother has long beautiful blond hair that could light up the night sky, complemented with a pair of zircon colored eyes.
     "Tell me, dear..."
-    began the mother as her fingers stopped tying the silky stems of flowers together.
+    ...began the mother as her fingers stopped tying the silky stems of flowers together.
     "What is the most painful thing that exists in this world?"
     "Um... I'm not sure, Mother. What is it?"
     The daughter replied, unsure of where the conversation was going.
