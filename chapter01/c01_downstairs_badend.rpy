@@ -24,7 +24,7 @@ label c01_downstairs_badend:
     What happened? [Pause] Why does the man sound like he is in such a panic?
     Because of how loud the footsteps were, I couldn't hear everything they were saying.
     other_voice "His entire... blown off! This... is getting... hand!"
-    'Blown off?' [Pause] Something from that child was blown off?
+    "Blown off?" [Pause] Something from that child was blown off?
     Why? [Pause] By what?
     Wha... What is going on beyond the walls of the hospital...?!
     mans_voice "We need to... Silver... there!"
