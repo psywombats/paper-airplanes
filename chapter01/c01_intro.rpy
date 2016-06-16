@@ -3,20 +3,20 @@ label start:
     [Chapter 1: The glaring moment]
     [NVL format]
     {Birds view of meadow}
-    There is a meadow, somewhere in the vast world of Mion, above where Ion sleeps.
-    The meadow has a secret that only those with the curse may lay. [Pause] Not even the dark lord who watches over them- Kxon- knows where this meadow lays.
+    Somewhere in the vast world of Mion, above where Ion sleeps, there is a meadow.
+    The meadow has a secret that only those with the curse may know. [Pause] Not even the dark lord who watches over them, Kxon, knows where this meadow lies.
     {Worms view of meadow}
-    The meadow is surrounded by tall, healthy, and green alder trees and lies beneath a bright blue sky. [Pause] But only small rays of the sun are allowed to penetrate into this peaceful tranquility.
+    The meadow is surrounded by tall, healthy, and green alder trees beneath a bright blue sky. [Pause] But only small rays of the sun are allowed to penetrate into this peaceful tranquility.
     {Picture of meadow}
-    It is a meadow filled with flowers that virtually covers the green grass. [Pause] The gentle flowers vary from yellow carnations, cosmos, irises, jasmines, lilies, orchids, and white roses.
-    In this meadow, flower petals dance elegantly in the gentle spring breeze; never learning of the cold and harsh touch of winter.
+    It is a meadow filled with flowers that virtually cover the green grass. [Pause] The gentle flowers vary from yellow carnations, cosmos, irises, jasmines, lilies, orchids, to white roses.
+    In this meadow, flower petals dance elegantly in the gentle spring breeze, never learning of the cold and harsh touch of winter.
     {Up close picture of grass with water droplets, flower and trees in the distance}
     The tall alder trees protect the flower at their base from the gentle drops of rain, causing the green grass to shine in the dew of the water.
     {Picture of meadow}
     Amidst this beauteous scenery, [Pause] there is a young mother and her daughter, calmly making flower crowns while listening to the soothing lullabies from the wind.
     The mother has long beautiful blond hair that could light up the night sky, complemented with a pair of zircon colored eyes.
     "Tell me, dear..."
-    began the mother as her fingers stopped tying the silky stems of flowers together.
+    ...began the mother as her fingers stopped tying the silky stems of flowers together.
     "What is the most painful thing that exists in this world?"
     "Um... I'm not sure, Mother. What is it?"
     The daughter replied, unsure of where the conversation was going.
@@ -56,41 +56,41 @@ label start:
     As much as I wanted to fall into a deep slumber once again, I had a full day ahead of me.
     I pushed my body up with my elbows, my eyes slowly fluttering open.
     Once I was propped up with my torso limply slouching over my legs, I glanced over to the clock. [Pause] It was seven in the morning.
-    I woke up right on time as always, this morning. [Pause] Maybe I really do have an alarm clock embedded into my body that wakes me up.
+    I woke up right on time as always, this morning. [Pause] Maybe I really do have an alarm clock embedded in my body that wakes me up.
     I arched my back a little, feeling the tension in my body disappear and began to rub my eyes, yawning in the process.
     I looked over to the right, where the only true window in my room hid behind the thick white curtains. [Pause] It looks like the weather will be nice today, based on the bright light coming out from the bottom of the curtains.
     This room, room number 302, was often cloaked in darkness until the dawn; this is where the light finally begins to fill the room that I lived in.
-    To be more precise, I was in Room 302, on the third floor of the west wing in Creed Hospital. [Pause] My room is the second largest room in the entire hospital, the largest being the delivery room.
+    To be more precise, I was in room 302, on the third floor of the west wing in Creed Hospital. [Pause] My room is the second largest room in the entire hospital, the largest being the delivery room.
     It is a nice room overall, nicely decorated with furniture and large space, but I wish I didn't have so much.
-    I shouldn't be the only one who gets all the nice stuff. There are other children who are younger than myself that reside in this hospital, after all.
+    I shouldn't be the only one who gets all the nice stuff. There are other children who are younger than me that reside in this hospital, after all.
     In fact, I wish I didn't even have any of these extra furniture. [Pause] I would trade it all for nothing more than a different colored room and a simple chair next to my bed, with the vase of flowers on the window sill.
     Something like this is probably only me, but when you enter a hospital room, it doesn't feel very welcoming.
     When you enter, the room seems to emit a sad and cold atmosphere, thanks to the gray and gloomy color palette. [Pause] The first thing you see is the window and its curtains, which then makes you look at the color of the wall.
-    The moment you do, all of the furniture vanishes, as if it was covered by an invisible cloak or disappearing into thin air.
-    Recoloring the entire hospital would be nice; it will give each room its unique color of choice.
-    Let's see... My room would probably look nice if it was colored... [Pause] Green. Yes, green is a nice cheerful color! It is one of my favorites!
+    The moment you do, all of the furniture vanishes, as if it was covered by an invisible cloak or disappeared into thin air.
+    Recoloring the entire hospital would be nice; it would give each room its unique color of choice.
+    Let's see... My room would probably look nice if it was colored... [Pause] Green. Yes, green is a nice cheerful color! It's one of my favorites!
     But I suppose having every single hospital room recolored with such a bright color palette might give the visitors a slight spasm.
     And that wouldn't be very good. [Pause]  Rather, that would be horrible.
     [ADV Format]
     ??? "Nyu!"
     Suddenly, a high pitched voice squeaked to my left, which caused me to return to reality.
     I looked over to the left and saw my friend and pet, Nyu, climb onto my bed.
-    Using her small and stubby little arms and legs, she managed to wobble over my direction; her big glossy black eyes shining in excitement, and her cute little button nose twitching.
+    Using her small and stubby little arms and legs, she managed to wobble over my direction, her big glossy black eyes shining in excitement, and her cute little button nose twitching.
     ??? "Good morning, Nyu. Did you sleep well?"
     n "Nyui!"
     I giggled at her reply, petting her soft pink and white fur.
     Once Nyu was satisfied with me petting her, Nyu pulled her body away from me and began to rummage through her small bag that was meant to hold emergency medicines for me.
     ??? "What are you doing, Nyu? Did you hide something in there?"
-    Nyu ignored my question as she continued to look around her small bag.
-    After a moment of silence, Nyu pulled out a small note card and practically thrusted it to me.
+    Nyu ignored my question as she continued to look around in her small bag.
+    After a moment of silence, Nyu pulled out a small note card and practically thrust it at me.
     I hesitantly took the card from Nyu's paws, smiling nervously at Nyu's forward behavior.
     The card appeared to be blank.
     I glanced over to Nyu, not knowing why she had given this to me.
     n "Nyu!"
     I glanced back to the notecard, wondering what secrets it had. [Pause] I began to twirl the card around, eyeing each corner of the card for clues when I saw three letters on the back.
-    ??? "‘H.B.C'...?"
-    I tilted my head in in confusion by the three mysterious letters.
-    I had a feeling that they meant something, but perhaps since I was still groggy from my sleep, I couldn't interpret the meaning.
+    ??? "'H.B.C'...?"
+    I tilted my head in confusion at the three mysterious letters.
+    I had a feeling that they meant something, but perhaps as I was still groggy from my sleep, I couldn't interpret the meaning.
     Was it some sort of secret code? [Pause] A code that could release Nyu's true form of ultimate fluffiness?!
     ...No, of course not. [Pause] That would be ridiculous.
     Exciting, but ridiculous.
@@ -99,36 +99,36 @@ label start:
     It was also the fourteenth anniversary of my mother's death.
     She had died the very same day, if not the exact moment, I was born.
     Today is a day of joy, and yet it is also a day of sadness.
-    I quickly shook my head at the thought of ‘sadness', not wanting to ruin my birthday.
+    I quickly shook my head at the thought of "sadness", not wanting to ruin my birthday.
     I'm sure my mother wouldn't have wanted me to be sad on such a special day.
-    The "H.B.C" stood for "Happy Birthday Celia." [Pause] It was the three letters that Nyu could manage to write.
+    The "H.B.C" stood for "Happy Birthday Celia." [Pause] They were the three letters that Nyu could manage to write.
     I looked over to Nyu and smiled.
     c "Thank you for the present, Nyu! [Pause] Your handwriting is looking very good!"
     n "Nyu!"
     I giggled at Nyu's response, gently petting her head.
     Suddenly, my stomach growled at me; it demanded food and scared Nyu.
-    I giggled at Nyu's tumble from my stomach and looked over to the clock again. [Pause] It was seven twenty-five.
-    c "Oh dear, it's twenty-five already? [Pause] She's running a little late, isn't she?"
+    I giggled at Nyu's tumble from my stomach and looked over to the clock again. [Pause] It was 7:25.
+    c "Oh dear, it's almost half past already? [Pause] She's running a little late, isn't she?"
     n "Nyu!"
-    Right as the clock struck seven twenty-six, my personal nurse, Meadow, opened the door, carrying a tray of food.
+    Right as the clock struck 7:26, my personal nurse, Meadow, opened the door, carrying a tray of food.
     m "Good morning, Miss Celia! [Pause] Good morning to you as well, Nyu!"
-    I raised an eyebrow at Meadow's greeting. [Pause] That was the first time she had called me ‘Miss Celia'.
+    I raised an eyebrow at Meadow's greeting. [Pause] That was the first time she had called me "Miss Celia".
     c "Good morning, Miss Meadow!"
     m "Huh? [Pause] Miss Meadow?"
-    I couldn't help but smile at Meadow's response. [Pause] Did she not notice how she called me ‘Miss Celia'?
+    I couldn't help but smile at Meadow's response. [Pause] Did she not notice how she called me "Miss Celia"?
     c "You called me "Miss Celia". [Pause] I'm assuming that this is a new name game?"
     Meadow laughed at my explanation, placing the tray of food on my lap.
     m "No, no, it's not a name game!"
     m "I've been ordered to call you "Miss Celia" as a symbol of your 14th birthday. You're practically a young lady now!"
-    I puffed out my cheeks in slight disapproval at her "orders", feeling like it is a bit unnecessary.
-    Meadow giggled at my reaction, and pinched my cheeks, causing me to smile a little.
+    I puffed out my cheeks in slight disapproval at her "orders", feeling like it was a bit unnecessary.
+    Meadow giggled at my reaction and pinched my cheeks, causing me to smile a little.
     m "Come on, no need to be like that! Orders are orders, Celia. There is nothing I can do."
     I smiled sadly in understanding as Meadow let go of my cheeks.
-    I looked down to my lap, where the glorious sight of my breakfast laid on top of the tray.
-    The smell of the freshly cooked eggs and rice mixed with the sweet smell of ketchup, crisp bread and salted butter began to make it's way towards my nose, causing my stomach to growl once again but more loudly this time.
+    I looked down to my lap, where the glorious sight of my breakfast lay on top of the tray.
+    Mixed with the sweet smell of ketchup, crisp bread and salted butter, the smell of the freshly cooked eggs and rice began to make its way towards my nose, causing my stomach to growl once again but more loudly this time.
     Meadow couldn't help but laugh at the sound of my growling stomach.
     m "Wow, that was a loud one! You must be really hungry today, huh?"
-    c "Hehe... Well, yes. [Pause] After all, you were six minutes late than usual."
+    c "Hehe... Well, yes. [Pause] After all, you were six minutes later than usual."
     m "Ah, I'm sorry about that. [Pause] I overslept this morning!"
     I couldn't help but laugh a little at her excuse. [Pause] I see she is quite honest as usual.
     After a moment, I began to eat my food as Meadow took the clipboard from the end of my bed and wrote down the heart monitor's complicated numbers.
@@ -141,10 +141,10 @@ label start:
     m "You stay here, Miss Celia. [Pause] Whatever you do, do not leave your room."
     Huh? [Pause] Stay in my room...?
     I almost always stay in my room... So why would today be any different?
-    Before I could open my mouth to ask Meadow why she had told me to stay in my room when it was such a common thing for me, she swiftly turns around and leaves, the door closing gently behind her.
+    Before I could open my mouth to ask Meadow why she had told me to stay in my room when it was such a common thing for me, she swiftly turned around and left, the door closing gently behind her.
     c "Something isn't right..."
     n "Nyu?"
-    I can hear the panicked voices coming from the hallway and the emergency room on the first floor, where many of the victims are being quickly transported to the west wing for surgical purposes.
+    I could hear the panicked voices coming from the hallway and the emergency room on the first floor, where many of the victims are being quickly transported to the west wing for surgical purposes.
     Vehicle accidents aren't common in this town, but when they occur the staff knows what to do and is always calm about the procedure.
     If they are making so much noise from three floors down, this isn't an average accident victim.
     Hm, what should I do?
@@ -155,4 +155,3 @@ label start:
 
         "Go downstairs":
             jump c01_downstairs_badend
-            
