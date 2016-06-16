@@ -159,7 +159,7 @@ label c01_cafeteria:
     m "Sir, you shouldn't be walking around like this. [Pause] Let's go back to your room, alright?"
     Meadow instructed in a calming manner. [Pause] However, the boy didn't listen; he continued to shake Meadow off.
     I fidgeted where I stood, a concerned look on my face as I wondered if I should help Meadow calm the boy down.
-    The boy suddenly stopped shaking Meadow off, his body becoming limp and almost falilng to the ground, [Pause] but thanks to Meadow's strong grip, she was able to help him stand.
+    The boy suddenly stopped shaking Meadow off, his body becoming limp and almost falling to the ground, [Pause] but thanks to Meadow's strong grip, she was able to help him stand.
     It appeared that he had fainted, which was normal for an accident victim.
     c "H-Here, let me help Meadow."
     I took a few steps forward, wanting to help when Meadow looked calmly over at me and smiled.
