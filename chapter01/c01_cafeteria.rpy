@@ -171,3 +171,5 @@ label c01_cafeteria:
     I pressed my lips together, obediently entering my room.
     
     [End of chapter 1]
+    
+    jump chapter_02
