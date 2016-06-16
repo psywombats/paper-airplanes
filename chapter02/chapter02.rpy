@@ -25,13 +25,13 @@ label chapter_02:
     I couldn't even process what he just said. [Pause] We just kept on hopping over obstacles in our way, like wingless birds.
     "Alright, [Pause] listen closely, Kid."
     My partner began, his words struggling to form between pants as we ran.
-    "There's a... [Pause] Norhillian town near here, just beyond... the woods. [Pause] It's called ‘Arkala', and it is the best hospital... [Pause] in Norhill."
+    "There's a... [Pause] Norhillian town near here, just beyond... the woods. [Pause] It's called 'Arkala', and it is the best hospital... [Pause] in Norhill."
     "Because of the recent circumstances, and... [Pause] your uniform being all ripped apart, they'll take you in... and help you out."
     I listened to the instructions, my head becoming light as each drop of crimson blood escaped from my body. 
     The feeling of blood flowing out of my shoulder sent shivers down my spine; the pulse of my heart pounded against my Adam's apple. 
     I'm a pessimistic person, but I really do hope that I'll still be alright.
     The cries of agony had completely vanished, and the strong wind drifted them away as twinkling lights began to from beyond the trees.
-    We had probably arrived at the edge of the Norhillian town... [Pause] ‘Arkala.'
+    We had probably arrived at the edge of the Norhillian town... [Pause] 'Arkala.'
     Before exiting the woods, my partner halted to a stop. My weak form would have nearly flied past him if it weren't for his strong grip on my shoulder.
     The sound of his heavy breathing echoed through the tranquil night sky, reaching any living creature beyond the trees we hid behind.
     "Now... [Pause] I can't go... [Pause] With you all in the way. [Pause] After all, we don't want the... others to get suspicious, so I'm... [Pause] going to go back to fight with them."
@@ -66,7 +66,7 @@ label chapter_02:
     ???: "Welcome to Creed hospital, Mr. Clow. [Pause] I am the director, Silver Creed."
     Man "I do apologize for not visiting you earlier this morning."
     k "..."
-    The man named ‘Silver' extended his hand to me, his eyes and stiff face remaining the same.
+    The man named 'Silver' extended his hand to me, his eyes and stiff face remaining the same.
     I stared at his hand, deciding whether or not to take it.
     menu:
         "Shake his hand":
@@ -93,10 +93,10 @@ label chapter_02:
     s "This is Meadow Allen, one of my trusted nurses. She will be monitoring your condition and take care of you during your stay here."
      s "Since you are a soldier for our country, and with these horrible circumstances, you don't have to worry too much about the fees. [Pause] As long as you keep Norhill safe, you don't have to repay us."
     I raised an eyebrow at the man's words, finding it strange that I didn't have to pay even a single palik to this man for taking care of me.
-    Usually, most ‘soldiers' would have a discount at hospitals that were not meant for soldiers at all.
+    Usually, most 'soldiers' would have a discount at hospitals that were not meant for soldiers at all.
     And it's rather strange that the man would be so carefree about my age and position as a working soldier. [Pause] I clearly look too young to work as a soldier, and yet... [Pause] He isn't.
     Something is definitely strange about this man. [Pause] I should keep my guard up.
-    The woman, ‘Meadow', stood next to the man, and the two began to whisper with one another, making sure that I couldn't hear them.
+    The woman, 'Meadow', stood next to the man, and the two began to whisper with one another, making sure that I couldn't hear them.
     My eyes narrowed as I stared intently at the two. [Pause] The man seemed progressively upset with each word that quietly escaped his lips.
     The man pursed his lips after the woman whispered something to him, and the two looked towards me.
     s "Well Mr. Clow, I have to get back to work. [Pause]We will make sure that your stay here is very comfortable for you."
@@ -148,7 +148,7 @@ label chapter_02:
     It wasn't until my partner had pointed out my missing arm that I had felt the pain. [pause] I had already lost a large amount of blood by then.
     I snorted at the thought of my "partner" and the situation that I had been pulled into.
     The innocent always get pulled into the worst situations.
-    Not that I was ‘innocent' in the first place...
+    Not that I was 'innocent' in the first place...
     ...After all, this world has gone straight to the depths of Kxon.
     It's fine by me. [Pause] This world is as bad as the dark lord anyway.
     ...
