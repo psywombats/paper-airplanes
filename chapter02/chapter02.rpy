@@ -103,7 +103,7 @@ label chapter_02:
     This woman... [Pause] She was the one who captured me after I had woke up the first time.
     I would have been gone from this place and back to the base if it weren't for her.
     With a short exhale from my nose, I looked away from the woman.
-    m "I have some food and medicine for you... [Pause] For your shoulder."
+    nurse "I have some food and medicine for you... [Pause] For your shoulder."
     The woman placed the food down near the edge of the bed, causing me to tense.
     The room grew silent again as something began to tug at my left sleeve.
     I instantly turned my head toward the woman and smacked her hand that had began to roll up my sleeve.
@@ -111,27 +111,27 @@ label chapter_02:
     I gritted my teeth and glared at her, rolling up my sleeve myself. [Pause] No one but me can touch my injuries.
     I scanned the tray for some sort of medicine bottle, grabbing a small round container with gel inside.
     Opening the container with a flick of my thumb, I placed the container back down on the tray and scooped up some of the gel with the tip of three of my fingers.
-    m "Uh wait, you need to remove the bandage first..."
+    nurse "Uh wait, you need to remove the bandage first..."
     I glared at the woman, causing her to close her mouth. [Pause] I could see that there was some frustration forming in her eyes.
     Glancing over to my rolled up sleeve, there was indeed a thick roll of bandages and a strange belt of some sort that tightly secured them over my wound.
     Using my pinky and thumb that were not coated in the strange gel, I somehow managed to remove the belt and bandages then applied the medicine.
     I gritted my teeth at the pain that spread through my body as I gently rubbed the gel.
-    m "You are rather stubborn, aren't you?"
+    nurse "You are rather stubborn, aren't you?"
     I snorted in response, rubbing my fingers against the cloth that covered my legs and began to put on the bandages and strange belt.
     The woman walked forward to me and a placed the tray of food on top of my lap, causing me to tense up at the sight of it.
-    m "Well, you were asleep for a while so you missed dinner. [Pause] Go ahead and eat it."
+    nurse "Well, you were asleep for a while so you missed dinner. [Pause] Go ahead and eat it."
     The tray consisted of a large bowl of steaming rice, a plate decked with some sort of glistening meat and vegetables, and a cup with some sort of warm white liquid in it.
     I shivered at the sight of the food, all my memories flooding into me at once.
     I picked up the tray with my trembling right hand and threw it past the woman, causing a loud clattering sound to echo inside the room.
     The woman gasped at my actions, turning her attention to the mess near the door, where the tray had landed.
     After a minute or two of silence from the woman, she turned around and glared at me with frustrated and angry eyes. 
     I glared back, taking the action as some sort of threatening position.
-    m "What in the name of Ion makes you think that you have the authority to just throw a perfectly well made meal to the wall like that?!"
-    m "It doesn't matter if you are a soldier of Norhill or not! [Pause] That was a meal made especially for you! And you threw it at the wall like it was garbage!"
-    m "I have another person to take care of who is in a much worse condition than you are!" 
-    m "By throwing that food to the wall, you have wasted food that could have helped them or anyone else in this building!"
-    m "I was only assigned to help you because everyone else had their hands filled with other patients!" 
-    m "I do not appreciate your attitude, and will gladly leave you alone to die in this room if that is what you truly wish!"
+    nurse "What in the name of Ion makes you think that you have the authority to just throw a perfectly well made meal to the wall like that?!"
+    nurse "It doesn't matter if you are a soldier of Norhill or not! [Pause] That was a meal made especially for you! And you threw it at the wall like it was garbage!"
+    nurse "I have another person to take care of who is in a much worse condition than you are!" 
+    nurse "By throwing that food to the wall, you have wasted food that could have helped them or anyone else in this building!"
+    nurse "I was only assigned to help you because everyone else had their hands filled with other patients!" 
+    nurse"I do not appreciate your attitude, and will gladly leave you alone to die in this room if that is what you truly wish!"
     I stared at the woman in shock, frozen by her sudden change of attitude and ice cold tone.
     My body relaxed a bit as I gave the woman an apologetic look for a brief moment before looking away.
     I repositioned my seating and laid down on my right side, my back facing the woman. [Pause] She'll leave after a bit.
