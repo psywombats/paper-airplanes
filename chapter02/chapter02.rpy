@@ -131,7 +131,7 @@ label chapter_02:
     nurse "I have another person to take care of who is in a much worse condition than you are!" 
     nurse "By throwing that food to the wall, you have wasted food that could have helped them or anyone else in this building!"
     nurse "I was only assigned to help you because everyone else had their hands filled with other patients!" 
-    nurse"I do not appreciate your attitude, and will gladly leave you alone to die in this room if that is what you truly wish!"
+    nurse "I do not appreciate your attitude, and will gladly leave you alone to die in this room if that is what you truly wish!"
     I stared at the woman in shock, frozen by her sudden change of attitude and ice cold tone.
     My body relaxed a bit as I gave the woman an apologetic look for a brief moment before looking away.
     I repositioned my seating and laid down on my right side, my back facing the woman. [Pause] She'll leave after a bit.
