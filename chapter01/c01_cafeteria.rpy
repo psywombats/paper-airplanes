@@ -172,4 +172,4 @@ menu:
     
     [End of chapter 1]
     
-    jump chapter_02
+    jump c02_chapter2

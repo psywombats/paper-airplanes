@@ -1,0 +1,43 @@
+label c03_noflan_badend:
+    
+    I gently bit my lower lip as I stepped away from the door.
+    There is no way... [Pause] I-I can't steal someone else's food.
+    c "I-I'm sorry... [Pause] I can't get that for you."
+    The boy snorted at my response, turned around and began to walk towards me.
+    Through the dim lighted room, the boy's green eyes were glazed with an emotion I couldn't fully comprehend.
+    It seemed like they were filled with... [Pause] Anger... Guilt... Or perhaps frustration...?
+    The boy roughly grabbed my left shoulder and began to push me towards the door.
+    Terrified, my voice disappeared and my body stiffened, allowing the boy to easily push my body around.
+    The boy pulled the door open and pushed me out of his room, the sound of my body slamming against the marbled floor echoing throughout the desolated hallway.
+    I couldn't help but whimper in pain.
+    The needle that was once only halfway up a vein in my arm was now fully engulfed into my arm, stabbing my arm.
+    I looked up at the boy's door, his green eyes glaring at me through the little window.
+    Before vanishing in the dark.
+    The boy's room seemed a lot different than when I had first entered.
+    It seemed... [Pause] more lonely than before.
+    Frozen from the pain of the needle up my arm, I laid there on the sterile, cold floor, waiting for someone to help me.
+    [Transition]
+    [NVL]
+    Several days had passed after my encounter with the boy.
+    Toma had found me on the ground five minutes after I had been pushed out.
+    I couldn't find it in me to tell Toma or Meadow what had happened. [Pause] Even after they had brought my father into the mix.
+    "I... [Pause] I just wanted to walk around for a bit, that's all..."
+    I would say to the trio every time they had asked.
+    "I slipped and fell down. That's how I got the IV needle stuck..."
+    That was all I could I say.
+    The angry eyes... [Pause] The lonely door... [Pause] It kept all of my words within me.
+    I thought that somehow, by keeping quiet... [Pause] I was helping the boy.
+    ... But I was wrong.
+    Meadow, Toma, and my father all made the decision to keep me securely sealed up in my room.
+    No more walks. [Pause] No more lunch at the cafeteria. [Pause] No more visiting the library.
+    And by being sealed in my room... [Pause] I couldn't help the boy.
+    Day by day, the look of frustration on Meadow's face grew.
+    Day by day, the boy refused to eat.
+    Until finally... [Pause] He was gone.
+    The weakness in his body from not eating had devoured him, leaving his lifeless, cold corpse behind.
+    It shouldn't have impacted me... [Pause] But for some, I had felt guilty for his death.
+    The nurse who bought the cup of flan could have always bought another. [Pause] They wouldn't have died in anger from having their flan stolen.
+    If only I had brought the boy the cup of flan... [Pause] He possibly would still be alive...
+    ... [Pause] I'm sorry. It's my fault...
+    [Game Over]
+    
