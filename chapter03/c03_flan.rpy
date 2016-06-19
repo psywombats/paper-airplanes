@@ -34,9 +34,9 @@ label c03_flan:
     I flinched at Toma's stern loud voice, my body tensing up.
     c "I-I'm sorry... [Pause] I just... wanted to welcome the new resident over at room 294..."
     t "I thought that you were instructed to stay in your room at all times unless supervised!"
-    I looked down at my face, feeling guilty from Toma's angry tone.
+    I looked down at my feet, feeling guilty from Toma's angry tone.
     t "..."
-    t "Sorry... [Pause] Just...don't do this again."
+    t "Sorry... [Pause] Just... don't do this again."
     I nodded obediently in reply, not looking up to meet Toma's eyes.
     t "...Hey." 
     t "I was sent on a coffee errand from the old man. Want to tag along and get something to drink?"

@@ -12,7 +12,7 @@ label c03_check:
     boy "..."
     nurse "You're only making this harder on yourself. [Pause] Go back inside, please."
     The nurses were all trying to move the boy back inside his room, and his green eyes glared coldly at them in response.
-    Five nurses were all grabbing onto the boy's only arm, trying to drag him back inside. [Pause] But in some miracle, he was able to stand where he was without moving even an inch.
+    Five nurses were all grabbing onto the boy's only arm, trying to drag him back inside. [Pause] But by some miracle, he was able to stand where he was without moving even an inch.
     Why is he trying so hard to escape? [Pause] It can't be that he wants to leave already, can it?
     He had only arrived yesterday, making his injuries fresh and in need of healing.
     If he leaves now, then he'll get an infection! [Pause] Or even worse, his wounds will reopen!
