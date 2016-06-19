@@ -11,20 +11,20 @@ label c03_flan:
     He must have thought that I wouldn't do it.
     c "Ehehe... [Pause] Well..."
     c "Here you go! Make sure you eat all of it!"
-    With a smile, I extended the coffered the cup of flan to the stunned boy.
-    He hesitantly took the cups from my hands, his eyes returning to their usual emotionless  state.
+    With a smile, I extended the cup of flan to the stunned boy.
+    He hesitantly took the cups from my hands, his eyes returning to their usual emotionless state.
     Boy "..."
     The boy remained quiet as he nodded to me.
-    I smiled and nodded back, feeling a thank you of gratitude behind his nodding."
+    I smiled and nodded back, feeling a thank you of gratitude behind his nodding.
     ??? "Celia? [Pause] Celia, where are you?"
     c "Hm?"
     ??? "Celia, now isn't the time for hide and go seek!"
     c "Ah, it's Toma!"
-    Boy "...?"
+    boy "...?"
     c "I'm sorry, but I have to go now." 
     c "Don't forget to take your medication! [Pause] Put all of it on your tongue and start drinking the water."
     c "Don't stop drinking the water, just drink all of it! [Pause] That way, you don't have to worry about the medication getting stuck in your throat."
-    Boy "?!"
+    boy "?!"
     I smiled once more to the boy before turning around and left the room.
     Closing the door behind me, I noticed that Toma was standing in front of my door, looking down the other side of the hallway.
     I jogged over to Toma, my bare feet slapping on the ground that seemed to have caught Toma's attention.
@@ -33,7 +33,7 @@ label c03_flan:
     t "Never mind that, why in Ion's name were you not in your room?!"
     I flinched at Toma's stern loud voice, my body tensing up.
     c "I-I'm sorry... [Pause] I just... wanted to welcome the new resident over at room 294..."
-    t "I thought that you were instructed to stay in your room at all times, unless supervised!"
+    t "I thought that you were instructed to stay in your room at all times unless supervised!"
     I looked down at my face, feeling guilty from Toma's angry tone.
     t "..."
     t "Sorry... [Pause] Just...don't do this again."
@@ -63,9 +63,9 @@ label c03_flan:
     menu:
         "Interesting":
             c "The new resident is a young boy about my age and... [Pause] He's very interesting."
-            k "Oh? [Pause] How so?"
+            t "Oh? [Pause] How so?"
             c "He seems as if he really wants to leave this place... [Pause] He is also rather quiet and often uses his eye to scare people away."
-            c "I think that being in the accident has really hurt him to trust people."
+            c "I think that being in the accident has really hurt his ability to trust people."
             c "But at the same time, he is rather open. [Pause] After I had helped him with something, he seemed a bit more gentle than he was before."
             c "I really want to help him. [Pause] He seems to be only about my age after all, so he shouldn't really have to go through this...being in a hospital."
             t "Hm..." 
@@ -74,35 +74,35 @@ label c03_flan:
             I smiled at Toma as we continued down the hall, soon talking about what drink to get.
 
         "Strange":
-                c "The new resident is a young boy about my age and... [Pause] He's very...strange."
-                t "Huh? [Pause] Strange how and in what way?"
-                c "Well, he is really quiet and mostly stared at me when I talked with him."
-                t "He ‘stared at you'?"
-                c "Basically, yes. [Pause] His visible eye seemed as if screaming distrust and wary towards me."
-                c "I think that being in the accident has really hurt him to trust people."
-                c "But because of that... [Pause] I really want to help him." 
-                c "He seems to be only about my age after all, so he shouldn't really have to go through this...being in a hospital."
-                t "Hm..."
-                t "I don't like the sound of this guy."
-                c "Hm?"
-                Toma's eyes shifted to the side as we walked, a slight look of disgust in his eyes.
-                t "I mean, if he's staring at you then I can give a guess as to why, which kind of bothers me."
-                t "Especially since you're in that... [Pause] Everyone knows that there's nothing underneath."
-                Toma's face reddened a little bit as he began to furiously scratch his head, his teeth gritting in distress.
-                t "Ugh, when is that stupid thing going to come in?!"
-                c "Um, Toma? [Pause] Are you alright?"
-                t "Huh?"
-                t "Oh, I'm fine."
-                t "But hey, do me a favor and don't get too close to him, got it?"
-                t "If he keeps on staring at you, let me know and I'll tell the guy to stop."
-                c "Huh? [Pause] Um, well alright."
-                I smiled in confusion at Toma as we continued down the hall, soon talking about what drink to get.
+            c "The new resident is a young boy about my age and... [Pause] He's very...strange."
+            t "Huh? [Pause] Strange how and in what way?"
+            c "Well, he is really quiet and mostly stared at me when I talked with him."
+            t "He stared at you?"
+            c "Basically, yes. [Pause] His eyes were screaming distrust and wariness towards me."
+            c "I think that being in the accident has really hurt his ability to trust people."
+            c "But because of that... [Pause] I really want to help him." 
+            c "He seems to be only about my age after all, so he shouldn't really have to go through this...being in a hospital."
+            t "Hm..."
+            t "I don't like the sound of this guy."
+            c "Hm?"
+            Toma's eyes shifted to the side as we walked, a slight look of disgust in his eyes.
+            t "I mean, if he's staring at you then I can give a guess as to why, which kind of bothers me."
+            t "Especially since you're in that... [Pause] Everyone knows that there's nothing underneath."
+            Toma's face reddened a little bit as he began to furiously scratch his head, his teeth gritting in distress.
+            t "Ugh, when is that stupid thing going to come in?!"
+            c "Um, Toma? [Pause] Are you alright?"
+            t "Huh?"
+            t "Oh, I'm fine."
+            t "But hey, do me a favor and don't get too close to him, got it?"
+            t "If he keeps on staring at you, let me know and I'll tell the guy to stop."
+            c "Huh? [Pause] Um, well alright."
+            I smiled in confusion at Toma as we continued down the hall, soon talking about what drink to get.
 
     [Transition]
-    It was now six eighteen in the evening, the hospital hallway lights dimmed down to settle a time passing atmosphere.
+    It was now 6:18 in the evening, the hospital hallway lights dimmed down to settle an atmosphere of passing time.
     c "Hm..."
     I was working on my history worksheets that Alalia had given me as homework, the ticking and beeping softly echoing in my room.
-    As I scribbled down my answers for the multiple choice selection, the door opening caught my attention.
+    As I scribbled down my answers for the multiple choice selection, the opening of the door caught my attention.
     m "Good evening, Miss Celia."
     I nodded in reply, writing down the page number of the textbook that I would need for a short answer.
     m "Come on, little miss worker. [Pause] Put down the pencil and eat your food."
@@ -125,7 +125,7 @@ label c03_flan:
     I pressed my lips together as I glanced away from Meadow.
     m "...?"
     m "Miss Celia, are you hiding something?"
-    c "Huh? [Pause] W-What led that on?"
+    c "Huh? [Pause] W-What brought that on?"
     m "Well, when you want to keep something to yourself, you press your lips together."
     c "Really, I do? [Pause] Eheheh, I-I haven't noticed!"
     m "Miss Celia, what are you hiding?"
@@ -142,7 +142,7 @@ label c03_flan:
     I took a deep breath as I finally locked eyes with Meadow, puffing out my cheeks.
     c "... [Pause] Shortly after you gave me my lunch, I went and visited the boy."
     m "... [Pause] Huh?"
-    c "I-I went and...visited the boy today."
+    c "I-I went and... visited the boy today."
     c "I'm really sorry, but I didn't want to sit here and do nothing!"
     c "When someone gets hurt in an accident, I think that the best course of action is to give them the nurturing love they need!" 
     c "And well... [Pause] He looks about my age so..."
@@ -154,11 +154,12 @@ label c03_flan:
     c "Hm?"
     Meadow ignored my confusion, kissed me on the forehead, turned around and left the room.
     That was odd... [Pause] I had thought that Meadow was going to be a bit more upset at my actions.
-    Maybe she took my words into consideration and realized how they didn't harm anyone?
+    Maybe she took my words into consideration and realized I didn't harm anyone?
     Well, it doesn't matter. [Pause] I'm just glad that I didn't get scolded by Meadow as well today.
-    Time moved on as I quickly finished my meal, returning to my homework before going to bed at eight.
+    Time moved on as I quickly finished my meal, returning to my homework before going to bed at 8:00.
     I was happy that I was able to help someone today...
     That makes it... [Pause] Five now.
     I smiled in the darkness, hugging Nyu gently in my arms as my eyes fluttered closed.
     I was halfway there...
     The mere thought makes me so happy...
+    
