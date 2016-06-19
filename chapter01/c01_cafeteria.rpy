@@ -51,7 +51,7 @@ label c01_cafeteria:
         I shook my head violently, trying to desperately to keep the sad thoughts away.
         If only forever...
 
-    If $c01_direct_cafeteria == 1:
+    if $c01_direct_cafeteria == 1:
         As I waited patiently for Toma to arrive with our food, I began to hum a little tone to myself.
         The melody was off key and the tone was horrible.
         I giggled a little to myself at my horrible humming skills, but finding it fun none the less.

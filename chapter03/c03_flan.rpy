@@ -62,6 +62,7 @@ label c03_flan:
     
     menu:
         "Interesting":
+            $c01_kenta_interesting = 1
             c "The new resident is a young boy about my age and... [Pause] He's very interesting."
             k "Oh? [Pause] How so?"
             c "He seems as if he really wants to leave this place... [Pause] He is also rather quiet and often uses his eye to scare people away."
@@ -74,6 +75,7 @@ label c03_flan:
             I smiled at Toma as we continued down the hall, soon talking about what drink to get.
 
         "Strange":
+                $c01_kenta_strange = 1
                 c "The new resident is a young boy about my age and... [Pause] He's very...strange."
                 t "Huh? [Pause] Strange how and in what way?"
                 c "Well, he is really quiet and mostly stared at me when I talked with him."
@@ -162,3 +164,5 @@ label c03_flan:
     I smiled in the darkness, hugging Nyu gently in my arms as my eyes fluttered closed.
     I was halfway there...
     The mere thought makes me so happy...
+
+    jump c04_intro
