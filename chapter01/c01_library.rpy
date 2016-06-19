@@ -22,18 +22,18 @@ label c01_library:
     t "Hey, don't give me that look! [Pause] I'm just kidding~!"
     I puffed out my left cheek, showing that I wasn't going to let Toma off the hook so easily with his remark.
     Toma laughed a little as he walked forward, smiling nervously at me as he pointed somewhere in the distance.
-    t "A-Anyways, I'm pretty sure that this place has gotten a Fantasy aisle recently. [Pause] Want to check it out?"
+    t "A-Anyways, I'm pretty sure that this place has gotten a fantasy aisle recently. [Pause] Want to check it out?"
     c "Huh? Fantasy?!"
-    t "Yeah, Fantasy. [Pause] Come on, it's this way."
+    t "Yeah, fantasy. [Pause] Come on, it's this way."
     Toma took the lead and began to walk towards the left corner of the library, the sounds of our footsteps bouncing off the walls and echoing in our ears.
     The smell of books and flowers filled the air, forming a comfortable and soothing atmosphere.
     {Bookshelf}
     t "If folklore and legends are over here then... [Pause] Here we are! Fantasy."
     Toma placed his hands behind his head in victory and stepped to the side as I walked forward, entering the narrow aisle between the bookshelves.
     c "Amazing...! You really know your way around the library, Toma!"
-    Despite the library's simple but calming interior, the bookshelves and books themselves all look fairly similar, forcing visitors to be in complete loss of what book to get.
-    t "Ah, well... [Pause] That's not really true.
-    t "The bookshelf right next to us is all about folklores and legends leading all the way back to Ion's time. [Pause] I'll be the first to know about anything new around here."
+    Despite the library's simple but calming interior, the bookshelves and books themselves all look fairly similar, forcing visitors to be at a complete loss about which book to get.
+    t "Ah, well... [Pause] That's not really true."
+    t "The bookshelf right next to us is all about folklore and legends dating all the way back to Ion's time. [Pause] I'll be the first to know about anything new around here."
     This was the one thing I had always found amusing with Toma.
     He loves anything about Mion's past era, including the "Old World" era, where our world was at its most hideous state.
     Aside from capital scholars, no one knows the stories from back then [Pause] but even for them, all they can do is come up with small and simple theories.
@@ -41,9 +41,9 @@ label c01_library:
     t "No problem."
     t "I'll go and get us the table, so you go on ahead and pick out a book."
     c "Alright, thank you!"
-    Toma nodded at my words, stuffing his hands into his lab pockets and turned around, walking towards my favorite table.
-    I turned towards the bookshelf and scanned the selection it had to offer for me."
-    Each book was a key to a portal; [Pause] one that would take me away from Mion and enter the book's world.
+    Toma nodded at my words, stuffing his hands into his lab coat pockets, and turned around, walking towards my favorite table.
+    I turned towards the bookshelf and scanned the selection it had to offer for me.
+    Each book was a key to a portal; [Pause] one that would take me away from Mion and into the world of the book.
     Impatient and wanting to explore the new worlds, I quickly grabbed three random books that had my three favorite colors as covers.
     One was white, another was green, and the last was yellow.
     With a happy smile, I held the books close to my chest and began to walk towards Toma who was sitting in the comfortable chairs with his head hanging limply from his shoulders.
@@ -61,9 +61,9 @@ label c01_library:
     t "Well, whatever. [Pause] Maybe I'll just read one of your books."
     c "Oh, alright! [Pause] Which one do you want?"
     t "Doesn't matter, I'll just take one of the books you won't be reading."
-    Toma slumped down in his seat and pushed the seat across from him, telling me to sit there for it was my usual spot.
-    I took a seat, placing the three books I had selected randomly in a row in front of Toma and I.
-    Hm... What books should I read?
+    Toma slumped down in his seat and pushed the seat across from him, telling me to sit there as it was my usual spot.
+    I took a seat, placing the three books I had selected randomly in a row in front of Toma and me.
+    Hm... Which book should I read?
 
     menu:
         "The white book":
@@ -82,19 +82,18 @@ label c01_library:
             $yellow_book += 1
             c "I'll read the yellow book."
             t "Alright, then I'll read the green one."
-            The two of us slid the books we had claimed close to us as Toma moved the yellow book near the end of the table.
+            The two of us slid the books we had claimed close to us as Toma moved the white book near the end of the table.
 
     Toma instantly opened up the cover and began to read, his head resting on his left hand as his eyes slowly scanned the words.
-    While Toma read his book in the most indifferent way possible, I looked over to the right of me, where the window we had sat next to glowed it's normal radiance of pure sunlight.
+    While Toma read his book in the most indifferent way possible, I looked over to the right of me, where the window we had sat next to glowed its normal radiance of pure sunlight.
     There, right in front of the window, was a field of white.
     But not of snow. [Pause] It was a field of daisies.
-    Normally, such a plain flower wouldn't be so beautiful,
-    but the sight of a field of white petals gently swaying in the wind, glowing in the rays of the sun makes them much more appealing than normal.
+    Normally, such a plain flower wouldn't be so beautiful, [Pause] but the sight of a field of white petals gently swaying in the wind, glowing in the rays of the sun, makes them much more appealing than normal.
     On windy spring days, the petals would break off of the main stem, and join the wind in its reckless dancing.
-    On wet rainy days, the daisy's continued to glow a soft white color above them, as if the rain was supplying them with a new layer.
-    It was because of those daisy's... [Pause] That I have grown to love this spot in the entire library.
+    On wet rainy days, the daisies continued to glow a soft white color above them, as if the rain was supplying them with a new layer.
+    It was because of those daisies... [Pause] That I have grown to love this spot most in the entire library.
     The thought of a simple flower being able to outshine its plain appearance soothes me.
-    With a small smile, I looked down at my book, opened the cover and began to read."
+    With a small smile, I looked down at my book, opened the cover and began to read.
     [Transition]
     t "...Celia."
     t "... Hey, Celia!"
@@ -106,9 +105,9 @@ label c01_library:
     t "Well, I'm pretty sure you haven't noticed it, but a bear barged into the room."
     c "Huh?! [Pause] A bear?!"
     t "Hey, not so loud! [Pause] It's still in here."
-    My body stiffened at Toma's warning, and I press my lips together to ensure that not a single sound was to escape.
+    My body stiffened at Toma's warning, and I pressed my lips together to ensure that not a single sound was to escape.
     A terrifying idea entered my mind, causing me to slowly glance around my surroundings.
-    I was too nervous to look behind me; the book in my hands tighten.
+    I was too nervous to look behind me; the book in tightened in my hands.
     My heart began to race with apprehension, sweat forming on the back of my neck.
     If a bear was truly in here... [Pause] It could eat the books!
     No, wait... [Pause] Bears can't eat books, right?
@@ -122,27 +121,27 @@ label c01_library:
     I puffed out my cheeks in frustration, smacking Toma's hands gently with my book.
     c "You should know better than anyone not to do that!"
     t "Yeah, yeah, you're right. [Pause] Again, sorry."
-    t "Anyway, the real bear here is your stomach.
+    t "Anyway, the real bear here is your stomach."
     c "Huh?"
     t "While you were reading, your stomach was growling away. [Pause] At first, I really did think that there was a bear in here.
     c "Ah... [Pause] Now that you mention it, I do feel rather hungry."
-    Toma stood up from his chair, chuckling softly as he took the book he was reading as well as the yellow one.
+    Toma stood up from his chair, chuckling softly as he took the book he was reading as well as the extra one.
     t "Well, how about the two of us grab something to eat?"
     c "Hm?"
     t "Your old man gave me my pay today, so I can buy you something in the cafeteria."
     t "I can even buy you some flan!"
-    I smiled at the word "flan", happily standing up from my seat with the book close to my chest.
-    Toma and I walked towards the entrance of the library, stopping at the check-out counter where a nurse as well as the librarian waited.
+    I smiled at the word 'flan', happily standing up from my seat with the book close to my chest.
+    Toma and I walked towards the entrance of the library, stopping at the checkout counter where a nurse as well as the librarian waited.
     t "Can you return these for me?"
-    Librarian "Of course, sir."
-    Toma gave the Librarian the other books, and then she turned her attention to me, eyeing the book I had.
+    librarian "Of course, sir."
+    The librarian took the books from Toma, and then turned her attention to me, eyeing the book I had.
     c "O-Oh... I would like to check out this one please."
     The librarian smiled politely, her dimples showing as she tucked a loose strand of her long black hair back.
-    Librarian "But of course, Miss Celia."
+    librarian "But of course, Miss Celia."
     I gave my book to the librarian, a nervous smile forming as the words "Miss Celia" echoed in my ears.
     Even the librarian was ordered to call me by that name.
     A stiffening silence fell over Toma and I as we patiently watched the Librarian swiftly checking out the book.
-    With a loud thump from the check out stamp that printed the date of return on a little sheet, the Librarian offered the book back to me.
+    With a loud thump from the check out stamp that printed the date of return on a little sheet, the librarian offered the book back to me.
     Librarian "I apologize for the wait. Here you are Miss Celia."
     My body flinched as she called me by that name once again, hesitantly taking the book back.
     t "...Alright then. [Pause] Let's have lunch, Celia."
@@ -155,7 +154,7 @@ label c01_library:
     t "What's it about?"
 
     if white_book == 1:
-        c "Well, it seems to be about a little girl who is cursed with a strange white flower, [Pause]but because she likes the flower so much, she tries to sell it to the other villagers.
+        c "Well, it seems to be about a little girl who is cursed with a strange white flower, [Pause] but because she likes the flower so much, she tries to sell it to the other villagers."
         c "However, no one would buy it from her, because of the curse..."
         t "Huh... [Pause] Now I understand why you like it."
         c "Well, what about you? [Pause] Did you not like the book you were reading?"
@@ -164,23 +163,23 @@ label c01_library:
         t "I guess. [Pause] Unlike you, Celia, I just read books to pass time. Not as a way of entertainment."
 
     if green_book == 1:
-    c "Well, it seems to be about a bunch of children taking care of one another after all the adults in the island vanished. [Pause] Thankfully, a ship from the city found the island and offered to take the children there to look for their parents."
-    c "As for the rest of the story, I haven't gotten that far yet."
-    t "Huh... [Pause] I didn't know you were into survival."
-    c "Eheh... [Pause] W-Well, it's not my favorite scenario, but I can't stop reading!"
-    c "But what about you? [Pause] Did you not like the book you were reading?"
-    t "Yeah, mine was all about this highschool girl who was half Bulakka overcoming her past by joining a drama program at her school."
-    c "Really?! [Pause] That sounds interesting; why don't you get it?"
-    t "Haha, well it wasn't my thing. [Pause] Unlike you, Celia, I just read books to pass time, not as a way of entertainment."
+        c "Well, it seems to be about a bunch of children taking care of one another after all the adults in the island vanished. [Pause] Thankfully, a ship from the city found the island and offered to take the children there to look for their parents."
+        c "As for the rest of the story, I haven't gotten that far yet."
+        t "Huh... [Pause] I didn't know you were into survival."
+        c "Eheh... [Pause] W-Well, it's not my favorite scenario, but I can't stop reading!"
+        c "But what about you? [Pause] Did you not like the book you were reading?"
+        t "Yeah, mine was all about this highschool girl who was half Bulakka overcoming her past by joining a drama program at her school."
+        c "Really?! [Pause] That sounds interesting. Why don't you get it?"
+        t "Haha, well it wasn't my thing. [Pause] Unlike you, Celia, I just read books to pass time, not as a way of entertainment."
 
     if yellow_book == 1:
-    c "Well, it seems to be about a girl in highschool who is half human and half bulakka. [Pause] She has a really sad past, and to move on from it, she joins a drama club that her uncle runs.
-    c "I stopped on the sixth chapter, so I don't know anything else from that point."
-    t "Sheesh, talk about girly. [Pause] I understand why you like it."
-    c "Ehehe well, what about you? [Pause] Did you not like the book you were reading?"
-    t "Yeah, mine was all about this group of kids taking care of each other after all the adults on the island vanished."
-    c "Oh my, so it was a survival type of story?"
-    t "I guess. [Pause] Unlike you, Celia, I just read books to pass time. Not as a way of entertainment."
+        c "Well, it seems to be about a girl in highschool who is half human and half Bulakka. [Pause] She has a really sad past, and to move on from it, she joins a drama club that her uncle runs."
+        c "I stopped on the sixth chapter, so I don't know anything else from that point."
+        t "Sheesh, talk about girly. [Pause] I understand why you like it."
+        c "Ehehe well, what about you? [Pause] Did you not like the book you were reading?"
+        t "Yeah, mine was all about this group of kids taking care of each other after all the adults on the island vanished."
+        c "Oh my, so it was a survival type of story?"
+        t "I guess. [Pause] Unlike you, Celia, I just read books to pass time. Not as a way of entertainment."
 
     I smiled gently at Toma's words. As he began to stretch his arms up into the air, a comforting silence filled the long hallway.
     {Toma and Celia are walking, Toma's hands tied behind his head}
@@ -202,12 +201,12 @@ label c01_library:
     t "Hello."
     c "Good afternoon!"
     The women gave Toma and I a short nod, wide smiles forming on their aged and wrinkled faces.
-    Then, we entered the elevator moments before it's cold metal doors slid close.
+    Then, we entered the elevator moments before its cold metal doors slid close.
     I pushed the button to the second floor, feeling the smooth and chilly metal spread along my finger.
-    I took a step back where Toma stood and watched the numbers slowly decrease."
+    I took a step back where Toma stood and watched the numbers slowly decrease.
     c "...Oh Toma, I have a question."
     t "Hm? [Pause] What's up?"
-    c "Do you know about anything in regards to the new third floor resident? [Pause] They just entered the hospital early this morning."
+    c "Do you know about anything with regards to the new third floor resident? [Pause] They just entered the hospital early this morning."
     t "Oh... That."
     Toma stared at the slowly changing numbers, not glancing over to me as a suspenseful silence filled the confined space."
     It seemed to me as if... [Pause] Toma was thinking intensely about something.
@@ -216,7 +215,7 @@ label c01_library:
     t "Not really."
     t "The person lost something valuable to them, and needs to be supervised. [Pause] It is, after all, the reason they are a third floor resident."
     c "Oh, I see..."
-    The suspenseful silence filled the small space once again as I returned my attention to the elevators slow numbers.
-    With a sweet chime, the elevator's doors opened, allowing the two of us to step out.
+    The suspenseful silence filled the small space once again as I returned my attention to the slow elevator numbers.
+    With a sweet chime, the elevator doors opened, allowing the two of us to step out.
 
     jump c01_cafeteria
