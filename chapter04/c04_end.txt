@@ -12,10 +12,10 @@ label c04_end:
     I wonder... [Pause]  Why is he so quiet?
     Could it be that he doesn't like me? [Pause]  Or perhaps he suffers from social anxiety?
     Either way, he is really hard to read... [Pause]  That makes him mysterious.
-    As the silent atmosphere thickened , the light that had once covered me suddenly disappeared, catching my attention.
+    As the silent atmosphere thickened, the light that had once covered me suddenly disappeared, catching my attention.
     ??? "Oh my! [Pause]  It looks like someone had already beaten me here. And a young woman to boot!"
     k "?!"
-    Noticing Kenta suddenly jolting out of surprise, I looked back and forth between the two.
+    Noticing Kenta suddenly jolting up out of surprise, I looked back and forth between the two.
     c "Um... [Pause]  May I ask who you are?"
     ??? "Heh, please excuse my manners."
     ??? "My name is Artil. [Pause] I am Kenta's older brother. It is a pleasure to meet you.
@@ -25,7 +25,7 @@ label c04_end:
     How convenient! [Pause] I can probably ask Artil about some things in regards to his mysterious younger brother.
     I stood up from my seat and happily walked towards Artil, his attention that was focused on Kenta now turning to me.
     c "Pardon me Artil, but can you please explain some things about Kenta?"
-    Artil's expression turned slightly surprised the moment I had uttered his name, much like Kenta's first reaction. [Pause] But he shortly returned to his kind smile.
+    Artil's expression turned slightly surprised the moment I uttered his name, much like Kenta's first reaction. [Pause] But he shortly returned to his kind smile.
     A "Certainly. [Pause] Is he not saying much?"
     c "Sadly, yes. [Pause] He doesn't say anything."
     A "Heh, well that is to be expected if it's Kenta."
@@ -33,7 +33,7 @@ label c04_end:
     c "...Huh? [Pause] He is?"
     A "Yes. [Pause] When he was born, the doctors found that the broca area of his brain was mysteriously damaged."
     A "Our parents were never the richest you see, so they weren't able to fix him. [Pause] But Kenta is rather special..."
-    A ""Blessed by Ion", our mother often said."
+    A "\"Blessed by Ion\", our mother often said."
     A "It wouldn't be surprising for me if his brain fixed itself."
     A "If he chooses not to speak now or if he is still damaged, I cannot say."
     c "I-I see... [Pause] Does he not know sign language?"
@@ -47,14 +47,14 @@ label c04_end:
     Covering my mouth to hold back a laugh, I took a step to the side, not wanting to get hurt or get in the way.
     Thankfully, Artil was able to catch Kenta's fist from hitting him and Artil began to twirl Kenta around continuously back to his bed.
     A "I know, I know! [Pause] I'm happy to see you too, little brother~!"
-    Kenta narrowed his eyes in a threatening manner to Artil, gritting his teeth to add a more frightening look.
+    Kenta narrowed his eyes in a threatening manner at Artil, gritting his teeth to add a more frightening look.
     The two began to playfully fight each other, forgetting of my presence.
     As I watched Kenta try to hit Artil, I thought about something.
-    Kenta prefers to write down his words... [Pause] Has he also noticed the difference between speaking and writing like me?
+    Kenta prefers to write down his words... [Pause] Has he, like me, also noticed the difference between speaking and writing?
     c "..."
-    Quietly, I sneaked out of the room and quickly ran to my own.
+    Quietly, I snuck out of the room and quickly ran to my own.
     [Transition]
-    With a clean and new sketchbook and pencil cradled in my arms, I sneaked back into Kenta's room two minutes after I had left, and the boys still playfully fighting.
+    With a clean and new sketchbook and pencil cradled in my arms, I snuck back into Kenta's room two minutes after I had left, the boys still playfully fighting.
     c "U-Um..."
     The boys halted at my words, looking over at my direction.
     c "Uh, well... [Pause] I-I have this spare sketchbook a-and..."
@@ -66,11 +66,11 @@ label c04_end:
     A "..."
     A "Heh, how kind of you..."
     I walked towards Kenta, my arms holding the sketchbook halfway out towards him.
-    Kenta's eyes were glued to the sketchbook, as if it was the most important thing in the universe, his right hand slowly reaching for it.
+    Kenta's eyes were glued to the sketchbook, as if it was the most important thing in the universe. His right hand slowly reached for it.
     k "..."
-    c "Ah, I also have a pencil for you... [Pause] I hope you like white.
-    Kenta took the sketchbook, along with the pencil, his eyes slowly moving up to lock with mine.
-    I smiled brightly at him once he took the items from me, taking a step back as I intertwined my fingers behind my back.
+    c "Ah, I also have a pencil for you... [Pause] I hope you like white."
+    Kenta took the sketchbook and pencil, his eyes slowly moving up to lock with mine.
+    I smiled brightly at him once he took the items from me. I took a step back as I intertwined my fingers behind my back.
     Even though the boy wasn't smiling... [Pause] I couldn't help but feel a sense of gratitude and joy radiating off of him.
     c "..."
     c "... Ah!"
@@ -83,7 +83,7 @@ label c04_end:
     Artil smiled as he pointed next to him, causing me to follow the direction he was pointing in.
     There, Kenta was holding up the sketchbook and written on it were two very simple words.
     "Thank you."
-    Despite the fact that the words were written down, I was able to hear a smooth male voice spoke them to me.
-    c "... [Pause] You're welcome. [Pause] Kenta."
+    Despite the fact that the words were written down, I was able to hear a smooth male voice speaking them to me.
+    c "... [Pause] You're welcome [Pause] Kenta."
     k "..."
-    With a smile, I opened the door and closed it only a little bit, so that a ray of light could seep through the dark room.
+    With a smile, I opened the door and closed it only a little bit, so that a ray of light could seep into the dark room.
