@@ -1,9 +1,6 @@
-label c01_hallway:
-
-    Hmm... I really shouldn't disobey Meadow... I would probably be a nuisance for the people downstairs as well.
-    And besides, knowing Meadow, she'd tell me at least the basic story of what happened.
-
-    The time was now 8:30, and Meadow still had't returned. [Pause] Something terrible really must have happened.
+label c01_room:
+    
+    The time was now 8:30, and Meadow still hadn't returned. [Pause] Something terrible really must have happened.
     I hope not too many people were hurt...
     Thankfully, the cries of panicked voices died down half an hour ago. [Pause] Everything must have gotten settled around then.
     n "Nyu! Nyu nyui, nyu nyu, nyui!"
@@ -66,7 +63,7 @@ label c01_hallway:
     t "Whoa there, Nyu! Not the face!"
     I laughed a little as I watched Toma attempting to remove Nyu, who was tightly gripping his face.
     t "Whew... Does Nyu have an interest in faces or something?"
-    c "Hehe, that is probably the only way she knows how to greet you."
+    c "Hehe, that is probably the only way she knows to greet you."
     t "I hope so, or else Nyu and I will be having a little bit of trouble getting along."
     I giggled at Toma's humorous behavior as Toma walked toward me, dropping Nyu on my lap.
     c "So Toma, what brings you here?"
@@ -78,8 +75,8 @@ label c01_hallway:
     Even if I needed to go to some place close by, I had to bring my IV bag everywhere with me. [Pause] I didn't mind it at first...
     But as I grew older, the bag of IV started to become a nuisance.
     I couldn't do a lot of things because of the bag weighing me down. [Pause] If I held it in one arm, it was too painful for me, the needles would move barely an inch and scrape my vein.
-    But after meeting Toma, the needles that are usually hooked to the IV bag itself now detach and hook up to a small vein that I can hold in one hand without hurting myself.
-    But because of how small the vein is, my time out of my room is very limited.
+    But after meeting Toma, the needles that usually hook to the IV bag itself now detach and hook up to a small vial that I can hold in one hand without hurting myself.
+    But because of how small the vial is, my time out of my room is very limited.
     [outside of Celia's room]
     The moment I stepped out of my room, I stretched my arms as far as I could, a hum of delight escaping me.
     I giggled as Toma closed the door, his back facing me, and ran to the room across from me.
@@ -92,32 +89,32 @@ label c01_hallway:
     t "You know the rules, Celia."
     c "Yes, of course I know..."
     Ever since my incident four years ago, I haven't had permission to step outside of the hospital. [Pause] Not that I was able to go very far back then, either...
-    But the small things most people see in the outside world is what I miss the most. [Pause] Not being able to experience the time of the seasons can really put a damper on your mood.
+    But the small things most people see in the outside world are what I miss the most. [Pause] Not being able to experience the seasons can really put a damper on your mood.
     The things like the nice gentle breeze during the spring, the steaming hot sunlight dancing on your skin in the summer, the splendid sight of pure white snow nestled on the ground during winter, or the lovely colors of the leaves during autumn...
-    I even miss the gentle concertos of the rain, elegantly playing music with what it touches and splashing cool water on any nearby human.
+    I even miss the gentle concertos of the rain, ellegantly playing music with what it touches and splashing cool water on any human near by.
     I had truly enjoyed the simple things like that when I was younger.
-    For me... [Pause] It proved that I was truly alive, living in this world and experiencing the continuously progressing time.
-    I suppose the nice part about staying in the hospital everyday is that I get to stay nice and dry though.
+    For me... [Pause] It proved that I was truly alive, living in this world and experiencing continuously progressing time.
+    I suppose the nice part about staying in the hospital every day is that I get to stay nice and dry though.
     t "So Celia, what do you want to do? [Pause] Do you have anywhere in particular you want to go?"
-
+    
     menu:
         "The library":
             jump c01_library
 
         "The cafeteria":
-            $c01_direct_cafeteria += 1
+            $c01_direct_cafeteria = 1
             c "Let's go to the cafeteria!"
             t "Sounds good. [Pause] It's almost lunchtime anyway."
-            c "Hey, Tom! Let's go and have some flan today!"
+            c "Hey, Toma! Let's go and have some flan today!"
             t "Haha! Sounds good!"
             Toma and I began to walk down the hallway, happily talking with enthusiasm about the flan that the two of us had grown to love.
             The cafeteria was in the main hospital building on the second floor, which meant that we had to take one of the long narrow hallways.
             Those hallways, leading to either the main building or the west wing where those like myself who cannot escape fate stay, are the most beautiful.
             Windows that reached the ceiling, making everything in the outside visible, could take your breath away.
-            The hospital courtyard just so happened to be right below those hallways, letting the people walking down the hallway see the tall dark green trees, marbled architecture like the fountain of Ion, and bright beautiful flowers.
+            The hospital courtyard just so happened to be right below those hallways, letting the people walking down the hallway see the tall dark green trees, the marbled architecture of fountain of Ion, and the bright beautiful flowers.
             Visitors often stopped in the middle of the hallway, taking in the beautiful view.
             jump c01_cafeteria
-
-        "Nowhere in particular":
-            $c01_direct_cafeteria += 1
+        
+        "Nowhere in particular"
+            $c01_direct_cafeteria = 1
             jump c01_nowhere
