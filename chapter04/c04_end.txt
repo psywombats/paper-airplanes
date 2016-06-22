@@ -3,10 +3,10 @@ label c04_end:
     ...
     The silence was starting to suffocate me...
 
-    if $c01_kenta_interesting == 1:
+    if $c03_kenta_interesting == 1:
         He really is interesting.
         
-    if $c01_kenta_strange == 1:
+    if $c03_kenta_strange == 1:
         He... [Pause]  He really is strange.
     
     I wonder... [Pause]  Why is he so quiet?
