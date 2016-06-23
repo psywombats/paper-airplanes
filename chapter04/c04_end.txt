@@ -87,3 +87,6 @@ label c04_end:
     c "... [Pause] You're welcome. [Pause] Kenta."
     k "..."
     With a smile, I opened the door and closed it only a little bit, so that a ray of light could seep through the dark room.
+
+    jump chapter05
+    
