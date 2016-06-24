@@ -137,7 +137,7 @@ label chapter05:
     I stared at the now-embarrassed Celia, trying to figure out her motives.
     Under my gaze, Celia's eyes wander the room, a soft blush forming on her cheeks.
     ... [Pause] Cute.
-    Looking down at the sketchbook, I carefully ripped a single sheet of paper.
+    Looking down at the sketchbook, I carefully ripped a single sheet of paper along the spiral binding, making the paper clean.
     c "Th-Thank you!"
     Celia happily took the paper from my hands, the strange creature climbing up her shoulder to her head.
     I watched Celia as she began to gently fold the piece of paper.
