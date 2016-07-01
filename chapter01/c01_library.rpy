@@ -1,7 +1,8 @@
 label c01_library:
 
-    c "I want to go to the library today! It has been so long since I have visited there, so it would be nice to see it again!"
+    
     t "Haha! If you're not drawing your horrible portraits of Nyu, you're always reading a book. [Pause] Quite the nerd as usual."
+    I gasp at Toma's words, slightly offended and shocked by his opinion.
     c "I beg your pardon, Toma!"
     c "There is absolutely nothing wrong with reading! [Pause] Besides, my drawings of Nyu are not horrible!"
     t "But not amazing."
@@ -11,6 +12,8 @@ label c01_library:
     I puffed out my cheeks as his hand slipped off my head, smiling cheekily at my reaction.
     It didn't matter who, Toma always had a way to push the buttons of anyone he meets.
     In order to stay on that person's good side, he'll say that he was only teasing them. [Pause] However, he seems to only pat my head when clarifying his way of teasing.
+    t "Come on, let's go."
+    I smile and nod, the two of us walking side by side as Toma began to tell me stories of his adventure away from the hospital.
     [In the library]
     I stretched my arms in the air in delight, taking in the lovely scenery of bookshelves carrying the many different types of literature inside of them.
     The library rarely sees any visitors, so it is the perfect place to forget your troubles and dive into a new world.

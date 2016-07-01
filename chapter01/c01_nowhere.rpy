@@ -4,32 +4,39 @@ label c01_nowhere:
     t "Huh? Seriously? [Pause] That's kind of boring, isn't it?"
     I giggled a little as I threw my arms up into the air.
     c "But it has been a while since I've walked around! [Pause] And the two of us can chat while walking!"
+    Toma raised an eyebrow at my explanation, a mischievous look in his eyes as his lips curled into a smile.
     t "Oh~? [Pause] You missed talking with me did you?"
     c "Hehe, I know you certainly have!"
-    t "Hahaha!"
+    Toma threw his head back as he laughed, knowing the truth behind my words.
     t "You got that right. [Pause] It's boring working hour after hour with no one to talk to, except for a strict man occasionally.
     I giggled at Toma's words, and the two of us began to walk.
     With no specific location, we were able to go freely as we pleased. [Pause] Nothing chaining us down.
     The feeling of freedom, one that only residents of the third floor in the west wing could have, was simply amazing.
     Of course, almost every other resident was given more freedom than I was. [Pause] I could only walk around like this if I was being supervised by someone eligible.
     t "Hey, you're 14 now, right?"
+    I gasped softly in surprise as I smiled pleasingly at Toma.
     c "You remembered my birthday!"
+    Toma scoffed, as if offended.
     t "Hey, come on now! You gotta give me more credit than that! [Pause] The two of us always celebrate your birthday! So of course I would remember."
     I covered my mouth with the back of my right hand, suppressing my laughter at Toma's reaction.
     c "You're right, I apologize."
     Toma and I have been friends for four years now, going all the way back to when I was 9 1/2 and when he was 12.
     As a way of making me happy, Toma had dragged me around the whole hospital on my tenth birthday, buying me flan for the first time.
     The two of us had never tried it back then, and started to grow a burning passion for its sweet flavor and silky smooth texture.
-    t "Man, you're a little lady now. [Pause] I mean, still short, but at least a lady."
-    c "Excuse me? [Pause] I think being five feet is reasonably tall for my body type and figure!"
+    t "Man, you're a little lady now. [Pause] And I mean that literally."
+    Toma placed a hand on top of my head and his other hand on top of his own head, as if measuring the distance between us.
+    I giggled swatting away his hand from my head.
+    c "I think being five feet is reasonably tall for my body type and figure!"
     t "Haha, no it's not! [Pause] You should at least be five three by now!"
+    I blinked in surprise at Toma’s information.
     c "Really? Well then what about you? [Pause] You're five eight right now, so shouldn't you be six feet?"
+    Toma stiffened at my words for a split second before laughing nervously.
     t "It's different for guys."
     c "Huh?"
     t "Well you see, it's all about-"
     ??? "Out of the way, kids!"
     Interrupting Toma, a loud raspy voice cried out to us as the sound of wheels gradually got louder.
-    I looked forward, where a couple of elderly men and women began to rush towards us in wheelchairs, their faces set in concentration.
+    I looked ahead, where a couple of elderly men and women began to rush towards us in wheelchairs, their faces set in concentration.
     I squeaked in surprise as Toma dragged me to the side along with himself, mere seconds before the leading elderly woman ran me over.
     I blinked in surprise as the wind from the wheelchairs blew over Toma and I, causing our clothes to sway in the same direction.
     t "Hey! [Pause] I thought the nurses told you all not to do any more wheelchair races!"
@@ -118,5 +125,8 @@ label c01_nowhere:
     The fact that there was nothing someone could have done to save the accident victim... [Pause] It hurts me.
     After another ten minutes or so, Toma's stomach began to growl.
     The two of us said goodbye to the nurses and made our way to the second floor of the main hospital.
+
+    jump c01_cafeteria
+
 
     jump c01_cafeteria
