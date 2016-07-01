@@ -118,18 +118,18 @@ label c01_hallway:
         "The cafeteria":
             $c01_direct_cafeteria += 1
 
-           c "Let's go to the cafeteria!"
-           Toma let’s out a soft chuckle, most likely expecting me to say something that.
-           t "Sounds good. [Pause] It's almost lunchtime anyway."
-           I cheer happily at Toma’s acceptance and pull at Toma’s right hand.
-           c "Hey, Toma! Let's go and have some flan today!"
-           t "Haha! Sounds good!"
-           Toma and I began to walk down the hallway, as I tug at his arm happily like a child, happily talking with enthusiasm about the flan that the two of us had grown to love.
-           The cafeteria was in the main hospital building on the second floor, which meant that we had to take one of the long narrow hallways.
-           Those hallways, leading to either the main building or the west wing where those like myself who cannot escape fate stay, are the most beautiful.
-           Windows that reached the ceiling, making everything in the outside visible, could take your breath away.
-           The hospital courtyard just so happened to be right below those hallways, letting the people walking down the hallway see the tall dark green trees, marbled architecture like the fountain of Ion, and bright beautiful flowers.
-           Visitors often stopped in the middle of the hallway, taking in the beautiful view.
+            c "Let's go to the cafeteria!"
+            Toma let’s out a soft chuckle, most likely expecting me to say something that.
+            t "Sounds good. [Pause] It's almost lunchtime anyway."
+            I cheer happily at Toma’s acceptance and pull at Toma’s right hand.
+            c "Hey, Toma! Let's go and have some flan today!"
+            t "Haha! Sounds good!"
+            Toma and I began to walk down the hallway, as I tug at his arm happily like a child, happily talking with enthusiasm about the flan that the two of us had grown to love.
+            The cafeteria was in the main hospital building on the second floor, which meant that we had to take one of the long narrow hallways.
+            Those hallways, leading to either the main building or the west wing where those like myself who cannot escape fate stay, are the most beautiful.
+            Windows that reached the ceiling, making everything in the outside visible, could take your breath away.
+            The hospital courtyard just so happened to be right below those hallways, letting the people walking down the hallway see the tall dark green trees, marbled architecture like the fountain of Ion, and bright beautiful flowers.
+            Visitors often stopped in the middle of the hallway, taking in the beautiful view.
             jump c01_cafeteria
 
         "Nowhere in particular":
