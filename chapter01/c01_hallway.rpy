@@ -5,7 +5,7 @@ label c01_hallway:
     Nodding with determination, I return my attention to my food and continue to eat.
     [Transition]
     The time is now 8:30, and Meadow still hadn't returned. [Pause] Something terrible really must have happened.
-    I hope not too many people were hurt…
+    I hope not too many people were hurt...
     Thankfully, the cries of panicked voices died down half an hour ago. [Pause] Everything must have gotten settled around then.
     n "Nyu! Nyu nyui, nyu nyu, nyui!"
     Nyu puffed out her cheeks in frustration as she weakly but indignantly stomped her little paw on the bed.
@@ -48,7 +48,7 @@ label c01_hallway:
     Despite Meadow's new carefree smile, I couldn't help but sense a more serious and slightly terrifying atmosphere emitting from her.
     I don't even know what the new resident looks like, and Meadow is telling me not go anywhere near them.
     ...
-    I can't help but become more and more curious about this new resident…
+    I can't help but become more and more curious about this new resident...
     [Transition]
     It is now 11:30 in the morning, which is half an hour before lunch time.
     Nyu and I had moved on to drawing portraits of each other. [Pause] And of course, she isn't very good at that either.
@@ -84,7 +84,7 @@ label c01_hallway:
     t "Cool! I'll put your device on mobile mode then."
     My "device"... [Pause] A strange name that Toma and I call my IV stand.
     I couldn't help but pout slightly at the word as I slid my legs off of the bed.
-    Even if I needed to go to some place close by, I had to bring my IV bag everywhere with me. [Pause] I didn't mind it at first…
+    Even if I needed to go to some place close by, I had to bring my IV bag everywhere with me. [Pause] I didn't mind it at first...
     I couldn't do a lot of things because of the bag weighing me down. [Pause] If I held it in one arm, it was too painful for me, the needle would move barely an inch and scrape my vein.
     But after meeting Toma, the needle that is usually hooked to the IV bag itself now detach and hook up to a small vial that I can hold in one hand without hurting myself.
     But because of how small the vial is, my time out of my room is very limited.
@@ -100,9 +100,9 @@ label c01_hallway:
     c "It's such a nice day today! The hallway is rather warm, thanks to the sunlight! [Pause] Such a shame we can't go outside to the garden."
     Toma smiled sadly at me while rubbing the back of his head.
     t "You know the rules, Celia."
-    Ever since my incident four years ago, I haven't had permission to step outside of the hospital. [Pause] Not that I was able to go very far back then, either…
+    Ever since my incident four years ago, I haven't had permission to step outside of the hospital. [Pause] Not that I was able to go very far back then, either...
     But the small things most people see in the outside world is what I miss the most. [Pause] Not being able to experience the time of the seasons can really put a damper on your mood.
-    The things like the nice gentle breeze during the spring, the steaming hot sunlight dancing on your skin in the summer, the splendid sight of pure white snow nestled on the ground during winter, or the lovely colors of the leaves during autumn…
+    The things like the nice gentle breeze during the spring, the steaming hot sunlight dancing on your skin in the summer, the splendid sight of pure white snow nestled on the ground during winter, or the lovely colors of the leaves during autumn...
     I even miss the gentle concertos of the rain, elegantly playing music with what it touches and splashing cool water on any nearby human.
     I had truly enjoyed the simple things like that when I was younger.
     For me... [Pause] It proved that I was truly alive, living in this world and experiencing the continuously progressing time.
