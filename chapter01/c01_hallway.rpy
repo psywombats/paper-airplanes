@@ -2,10 +2,10 @@ label c01_hallway:
 
     Hmm... I really shouldn't disobey Meadow... I would probably be a nuisance for the people downstairs as well.
     And besides, knowing Meadow, she'd tell me at least the basic story of what happened.
-    Nodding with determination, I return my attention to my food and continue to eat.
+    Nodding with determination, I returned my attention to my food and continued to eat.
     [Transition]
     The time is now 8:30, and Meadow still hadn't returned. [Pause] Something terrible really must have happened.
-    I hope not too many people were hurt…
+    I hope not too many people were hurt...
     Thankfully, the cries of panicked voices died down half an hour ago. [Pause] Everything must have gotten settled around then.
     n "Nyu! Nyu nyui, nyu nyu, nyui!"
     Nyu puffed out her cheeks in frustration as she weakly but indignantly stomped her little paw on the bed.
@@ -34,37 +34,38 @@ label c01_hallway:
     I couldn't help but pity the poor soul.
     The third floor of the hospital was where the people who were greatly injured or couldn't take care of themselves had to stay. [Pause] Almost all of the residents on this floor are above the age of 55.
     c "Oh! I have an idea!"
-    Meadow blinks in surprise at my sudden announcement, blinking in confusion.
+    Meadow blinked in surprise at my sudden announcement.
     m "Hmm?"
-    c "May I please welcome the new resident? [Pause] After being in such a horrible accident, they must be very scared and possibly even lonely-"
+    c "May I please welcome the new resident? [Pause] After being in such a horrible accident, they must be very scared and possibly even lonely."
     m "Absolutely not."
     I flinched in surprise at Meadow's quick response, thrown off completely by her sudden serious expression.
     m "Miss Celia, I would prefer it if you did not go any where near the new resident."
     c "Eh...?"
     m "Do not go near any strangers you might see."
-    I stare at Meadow in confusion and slight nervousness, my hands trembling slightly.c "...A-Alright..."
+    I stared at Meadow in confusion and slight nervousness, my hands trembling slightly.
+    c "...A-Alright..."
     Meadow smiled her usual smile.
     m "Good."
     Despite Meadow's new carefree smile, I couldn't help but sense a more serious and slightly terrifying atmosphere emitting from her.
     I don't even know what the new resident looks like, and Meadow is telling me not go anywhere near them.
     ...
-    I can't help but become more and more curious about this new resident…
+    I can't help but become more and more curious about this new resident...
     [Transition]
-    It is now 11:30 in the morning, which is half an hour before lunch time.
+    It is now 11:30 in the morning, half an hour before lunch time.
     Nyu and I had moved on to drawing portraits of each other. [Pause] And of course, she isn't very good at that either.
     c "And... [Pause] Done!"
-    I giggle happily as I reveal the picture I had drawn of Nyu to her.
+    I giggled happily as I reveal the picture I had drawn of her.
     c "Well? What do you think?"
     n "Nyu..."
-    Nyu shook her head in disapproval of my hard work, causing me to giggle nervously.
+    Nyu shook her head in disapproval at my hard work, causing me to giggle nervously.
     c "Oh come on, it isn't that bad..."
     Nyu puffed out her cheeks, placing her stubby paws on her hips.
     It looks like she isn't going to change her opinion.
-    I puff out my own cheeks as I turn the paper back towards me to gaze at the picture.
+    I puffed out my own cheeks as I turn the paper back towards me to gaze at the picture.
     c "Well I think it looks good enough..."
     As I stared at my picture of Nyu, a sudden knock on the door caught my attention.
     c "Ah, come in!"
-    The door opens and closes softly.
+    The door opened and closed softly.
     ??? "Yo! Good morning, Celia."
     c "Oh, Toma! Good morning to you."
     n "Nyu!"
@@ -79,17 +80,16 @@ label c01_hallway:
     c "So Toma, what brings you here?"
     Toma smiled as he stuffed his hands into his lab coat pockets.
     t "Just wanted to see if you wanted to walk around and stretch your legs today."
-    I gasp in pleasent surprise, clapping my hands together.
+    I gasped in pleasent surprise, clapping my hands together.
     c "Oh, that sounds nice! [Pause] I haven't gotten out of bed in a while."
     t "Cool! I'll put your device on mobile mode then."
     My "device"... [Pause] A strange name that Toma and I call my IV stand.
     I couldn't help but pout slightly at the word as I slid my legs off of the bed.
-    Even if I needed to go to some place close by, I had to bring my IV bag everywhere with me. [Pause] I didn't mind it at first…
+    Even if I needed to go to some place close by, I had to bring my IV bag everywhere with me. [Pause] I didn't mind it at first...
     I couldn't do a lot of things because of the bag weighing me down. [Pause] If I held it in one arm, it was too painful for me, the needle would move barely an inch and scrape my vein.
-    But after meeting Toma, the needle that is usually hooked to the IV bag itself now detach and hook up to a small vial that I can hold in one hand without hurting myself.
+    But after meeting Toma, the needle that is usually hooked to the IV bag itself can now detach and hook up to a small vial that I can hold in one hand without hurting myself.
     But because of how small the vial is, my time out of my room is very limited.
     [outside of Celia's room]
-    The moment I stepped out of my room, I stretched my arms as far as I could, a hum of delight escaping me.
     The moment I stepped out of my room, I stretched my arms as far as I could, a hum of delight escaping me.
     I giggled as Toma closed the door, his back facing me, and ran to the room across from me.
     t "Hey, Celia! [Pause] No running in a hospital, remember?"
@@ -100,15 +100,15 @@ label c01_hallway:
     c "It's such a nice day today! The hallway is rather warm, thanks to the sunlight! [Pause] Such a shame we can't go outside to the garden."
     Toma smiled sadly at me while rubbing the back of his head.
     t "You know the rules, Celia."
-    Ever since my incident four years ago, I haven't had permission to step outside of the hospital. [Pause] Not that I was able to go very far back then, either…
+    Ever since my incident four years ago, I haven't had permission to step outside of the hospital. [Pause] Not that I was able to go very far back then, either...
     But the small things most people see in the outside world is what I miss the most. [Pause] Not being able to experience the time of the seasons can really put a damper on your mood.
-    The things like the nice gentle breeze during the spring, the steaming hot sunlight dancing on your skin in the summer, the splendid sight of pure white snow nestled on the ground during winter, or the lovely colors of the leaves during autumn…
+    The things like the nice gentle breeze during the spring, the steaming hot sunlight dancing on your skin in the summer, the splendid sight of pure white snow nestled on the ground during winter, or the lovely colors of the leaves during autumn...
     I even miss the gentle concertos of the rain, elegantly playing music with what it touches and splashing cool water on any nearby human.
     I had truly enjoyed the simple things like that when I was younger.
     For me... [Pause] It proved that I was truly alive, living in this world and experiencing the continuously progressing time.
     I suppose the nice part about staying in the hospital everyday is that I get to stay nice and dry though.
     t "So Celia, what do you want to do? [Pause] Do you have anywhere in particular you want to go?"
-    I blink in surprise at Toma’s sudden question, not expecting him to ask so suddenly.
+    I blinked in surprise at Toma’s sudden question, not expecting him to ask so suddenly.
     c "Um, well..."
 
     menu:
@@ -118,18 +118,18 @@ label c01_hallway:
         "The cafeteria":
             $c01_direct_cafeteria += 1
 
-           c "Let's go to the cafeteria!"
-           Toma let’s out a soft chuckle, most likely expecting me to say something that.
-           t "Sounds good. [Pause] It's almost lunchtime anyway."
-           I cheer happily at Toma’s acceptance and pull at Toma’s right hand.
-           c "Hey, Toma! Let's go and have some flan today!"
-           t "Haha! Sounds good!"
-           Toma and I began to walk down the hallway, as I tug at his arm happily like a child, happily talking with enthusiasm about the flan that the two of us had grown to love.
-           The cafeteria was in the main hospital building on the second floor, which meant that we had to take one of the long narrow hallways.
-           Those hallways, leading to either the main building or the west wing where those like myself who cannot escape fate stay, are the most beautiful.
-           Windows that reached the ceiling, making everything in the outside visible, could take your breath away.
-           The hospital courtyard just so happened to be right below those hallways, letting the people walking down the hallway see the tall dark green trees, marbled architecture like the fountain of Ion, and bright beautiful flowers.
-           Visitors often stopped in the middle of the hallway, taking in the beautiful view.
+            c "Let's go to the cafeteria!"
+            Toma let’s out a soft chuckle, most likely expecting me to say something that.
+            t "Sounds good. [Pause] It's almost lunchtime anyway."
+            I cheer happily at Toma’s acceptance and pull at Toma’s right hand.
+            c "Hey, Toma! Let's go and have some flan today!"
+            t "Haha! Sounds good!"
+            Toma and I began to walk down the hallway, as I tug at his arm happily like a child, happily talking with enthusiasm about the flan that the two of us had grown to love.
+            The cafeteria was in the main hospital building on the second floor, which meant that we had to take one of the long narrow hallways.
+            Those hallways, leading to either the main building or the west wing where those like myself who cannot escape fate stay, are the most beautiful.
+            Windows that reached the ceiling, making everything in the outside visible, could take your breath away.
+            The hospital courtyard just so happened to be right below those hallways, letting the people walking down the hallway see the tall dark green trees, marbled architecture like the fountain of Ion, and bright beautiful flowers.
+            Visitors often stopped in the middle of the hallway, taking in the beautiful view.
             jump c01_cafeteria
 
         "Nowhere in particular":
