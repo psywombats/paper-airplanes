@@ -32,9 +32,9 @@ label c01_nowhere:
     c "Really? Well then what about you? {w=1.0} You're five eight right now, so shouldn't you be six feet?"
     Toma stiffened at my words for a split second before laughing nervously.
     t "It's different for guys."
-    c “Huh?"
-    t "Well you see, it's all about-"
-    who "Out of the way, kids!
+    c "Huh?"
+    t "Well you see, it's all about -"
+    who "Out of the way, kids!"
     Interrupting Toma, a loud raspy voice cried out to us as the sound of wheels gradually got louder.
     I looked ahead, where a couple of elderly men and women began to rush towards us in wheelchairs, their faces set in concentration.
     I squeaked in surprise as Toma dragged me to the side along with himself, mere seconds before the leading elderly woman ran me over.
@@ -55,7 +55,7 @@ label c01_nowhere:
     c "What are you talking about Toma? I am your girl friend, aren't I?"
     t "HUH?!"
     Toma jumped at my words, the tips of his ears turning as red as a cherry.
-    For some reason, the elders \“ooh\"ed and \“ahh\"ed at the scene before them, some of the elderly woman giggling like children.
+    For some reason, the elders \"ooh\"ed and \"ahh\"ed at the scene before them, some of the elderly woman giggling like children.
     c "Well, I am a girl and your friend, correct? {w=1.0} So, I'm your girl friend!"
     Toma's red face turned pale in seconds, as his once gaping mouth closed shut.
     t "Ah, that's right. {w=1.0} That's very true."
@@ -94,7 +94,7 @@ label c01_nowhere:
     Without even noticing, he had followed me to the nurses station.
     It was only natural, seeing as how he could never leave me by myself. {w=5.0} But for some reason, I felt a little upset about it.
     t "Well, today's special."
-    nurse “Oh?"
+    nurse "Oh?"
     t "It's Celia's birthday today! {w=1.0} I thought it'd be nice to celebrate by having lunch together."
     I looked at Toma in surprise.
     We’re going to eat lunch together? {w=2.0} That means we get to eat flan today~!
@@ -112,13 +112,13 @@ label c01_nowhere:
     c "And, well, I was wondering what happened to them."
     The nurses fell silent, their once smiling faces transforming into ones that showed discomfort.
     I waited patiently for an answer, watching the nurses exchange nervous glances with one another.
-    t “... {w=5.0} A wreck."
+    t "... {w=5.0} A wreck."
     I turned my attention to Toma, who had returned to normal, his eyes closed as if he was recalling something.
-    c “A wreck?"
+    c "A wreck?"
     Toma nodded, opening his eyes and instantly locked with the nurses in front of him.
     I looked over to the nurse’s, just in time to see them begin to nod - agreeing with Toma's claim.
     c "Oh, so it was just another accident victim?"
-    t “Not exactly."
+    t "Not exactly."
     t "The person lost something valuable to them, and needs to be supervised. {w=2.0} It is, after all, the reason they are a third floor resident."
     c "Oh, I see..."
     I looked down at my feet and wiggled my bare toes.

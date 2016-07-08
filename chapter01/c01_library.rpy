@@ -2,7 +2,7 @@ label c01_library:
 
     c "I want to go to the library today! It has been so long since I have visited there, so it would be nice to see it again!"
     t "Haha! If you're not drawing your horrible portraits of Nyu, you're always reading a book. {w=1.0} Quite the nerd as usual."
-    I gasped at Toma’s words, slightly offended and shocked by his opinion.
+    I gasped at Toma's words, slightly offended and shocked by his opinion.
     c "I beg your pardon, Toma!"
     c "There is absolutely nothing wrong with reading! {w=1.0} Besides, my drawings of Nyu are not horrible!"
     Toma chuckled at my reaction, patting my head all the while.
@@ -11,7 +11,7 @@ label c01_library:
     It didn't matter who, Toma always had a way to push the buttons of anyone he meets.
     In order to stay on that person's good side, he'll say that he was only teasing them. 
     However, he seems to only pat my head when clarifying his way of teasing.
-    t "Come on, let’s go."
+    t "Come on, let's go."
     I smiled and nodded, the two of us walking side by side as Toma began to tell me stories of his adventure away from the hospital.
     [Transition/In the library]
     I stretched my arms in the air in delight, taking in the lovely scenery of bookshelves carrying the many different types of literature inside of them.
@@ -74,21 +74,19 @@ label c01_library:
             c "I'll read the white book."
             t "Alright, then I'll read the green one."
             The two of us slid the books we had claimed close to us as Toma moved the yellow book near the end of the table.
-            jump read_library
 
         "The green book":
             $green_book += 1
             c "I'll read the green book."
             t "Alright, then I'll read the yellow one."
             The two of us slid the books we had claimed close to us as Toma moved the white book near the end of the table.
-            jump read_library
 
         "The yellow book":
             $yellow_book += 1
             c "I'll read the yellow book."
             t "Alright, then I'll read the green one."
-            
-    The two of us slid the books we had claimed close to us as Toma moved the white book near the end of the table.
+            The two of us slid the books we had claimed close to us as Toma moved the white book near the end of the table.
+   
     Toma instantly opened up the cover and began to read, his head resting on his left hand as his eyes slowly scanned the words.
     While Toma read his book in the most indifferent way possible, I looked over to the right of me, where the window we had sat next to glowed its normal radiance of pure sunlight.
     There, right in front of the window, was a field of white.
@@ -135,7 +133,7 @@ label c01_library:
     t "Your old man gave me my pay today, so I can buy you something in the cafeteria."
     t "I can even buy you some flan!"
     I smiled at the word "flan", happily standing up from my seat with the book close to my chest.
-    Toma and I walked towards the entrance of the library, stopping at the checkout counter where the librarian - who is also a nurse- waited.
+    Toma and I walked towards the entrance of the library, stopping at the checkout counter where the librarian - who is also a nurse - waited.
     t "Can you return these for me?"
     The librarian smiled and nodded.
     librarian "Of course, sir."
@@ -156,9 +154,9 @@ label c01_library:
     As Toma and I walked down the hallway of the fifth floor, right below where the library was stationed, Toma took the book from my hands and opened the cover in curiosity.
     t "So, is this book any good?"
     c "Ah, well... I suppose so."
-    t "What’s it about?"
+    t "What's it about?"
 
-    if @white_book == 1:
+    if $white_book == 1:
         c "Well, it seems to be about a little girl who is cursed with a strange white flower, {w=1.0} but because she likes the flower so much, she tries to sell it to the other villagers."
         c "However, no one would buy it from her, because of the curse..."
         t "Huh... {w=4.0} Now I understand why you like it."
@@ -219,10 +217,10 @@ label c01_library:
     t "The person lost something valuable to them, and needs to be supervised. {w=1.0} It is, after all, the reason they are a third floor resident."
     c "Oh, I see..."
     The suspenseful silence filled the small space once again as I returned my attention to the slow elevator numbers, slightly unsatisfied.
-    Meadow and Toma’s stories match, which is a good thing, but it doesn’t really give me all the answers I wanted.
+    Meadow and Toma's stories match, which is a good thing, but it doesn't really give me all the answers I wanted.
     Why was there such a commotion when it happened?
     What did they lose?
-    Why doesn’t Meadow want me to meet with this new resident?
+    Why doesn't Meadow want me to meet with this new resident?
     Nothing makes sense...
     With a sweet chime, the elevator doors opened, allowing the two of us to step out.
 

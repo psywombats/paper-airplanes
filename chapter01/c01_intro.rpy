@@ -91,7 +91,7 @@ label start:
     Suddenly, a high pitched voice squeaked to my left, snapping me back to reality.
     I looked over to the left and saw my friend and pet, Nyu, land on my bed.
     Using her small and stubby little arms and legs, she managed to wobble over my direction, her small glossy black eyes shining in excitement, and her cute little button nose twitching.
-    I smiled at Nyu as she stops right next to me, a slight look of exhaustion on her face.
+    I smiled at Nyu as she stopped right next to me, a slight look of exhaustion on her face.
     who "Good morning, Nyu. Did you sleep well?"
     n "Nyui!"
     I giggled at her reply, petting her soft pink and white fur.
@@ -189,7 +189,7 @@ label start:
     Hm, what should I do?
 
     menu:
-        "Stay in your room":
+        "Stay in the room":
             jump c01_room
 
         "Go downstairs":

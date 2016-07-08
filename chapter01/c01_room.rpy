@@ -124,7 +124,7 @@ label c01_room:
             I cheer happily at Toma’s acceptance and pulled his right hand.
             c "Hey, Toma! Let's go and have some flan today!"
             t "Do you even have to ask?!"
-            Toma and I began to walk down the hallway, as I tug at his arm happily like a child, happily talking with enthusiasm about the flan that the two of us had grown to love.
+            Toma and I began to walk down the hallway as I tug at his arm happily like a child, happily talking with enthusiasm about the flan that the two of us had grown to love.
             The cafeteria was in the main hospital building on the second floor, which meant that we had to take one of the long narrow hallways.
             Those hallways, leading to either the main building or the west wing where those like myself who cannot escape fate stay, are the most beautiful.
             Windows that reached the ceiling, making everything in the outside visible, could take your breath away.
@@ -134,4 +134,5 @@ label c01_room:
             jump c01_cafeteria
 
         "Nowhere in particular":
+            $direct_cafeteria += 1
             jump c01_nowhere

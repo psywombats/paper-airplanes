@@ -31,11 +31,11 @@ label c01_cafeteria:
         I placed my book down in front of me, staring blankly at the white colored cover.
         A little girl, unfortunately cursed by something so beautiful and fragile as a flower...
         A sad tale, but I had found comfort in it. {w} Perhaps it was because of the \"curse\" the little girl had?
-        The curse that had fallen upon my mother and I versus the curse that fell on the fictional child... {w=4.0} are so different and yet so similar.
+        The curse that had fallen upon my mother and me versus the curse that fell on the fictional child... {w=4.0} So different and yet so similar.
         A gentle sigh escaped my lips, turning into a soft hum halfway.
 
     if $green_book == 1:
-        Innocent children, waking up one morning to find their parents and close relatives gone…
+        Innocent children, waking up one morning to find their parents and close relatives gone...
         I couldn't help but feel sorry for them.
         Their ages varied from eight to eighteen, all with their own powers and unique personalities.
         What would I do if Meadow had vanished, I wonder...
@@ -71,11 +71,11 @@ label c01_cafeteria:
 
     if $lunch_usual == 1:
         The meal consisted of a small serving of white rice and thin slices of juicy, tender beef.
-        A small plate of various vegetables accompanied my food, along with a small teacup filled with honey-lemon tea.
+        A small plate of various vegetables accompanied my food, along with a small teacup filled with honey lemon tea.
 
     if $lunch_usual == 1:
         The meal consisted of a small bowl of thin noodles, bathed in a salty broth and topped with eggs and green onions.
-        Two small pieces of toasted bread laid on top of a plate next to the bowl and a small cup of honey-lemon tea.
+        Two small pieces of toasted bread lay on top of a plate next to the bowl and a small cup of honey-lemon tea.
 
     Toma's tray that he held in his right hand consisted of a medium sized bowl that was filled to the brim with salty and chicken-scented broth and thick layers of noodles filling on top of each other underneath the salty soup.
     He also had a small plate of sugar coated doughnuts. {w=1.0} It was right next to a tall cup of tan liquid, most likely coffee.
@@ -95,7 +95,7 @@ label c01_cafeteria:
     Once Toma had calmed down, everyone returned to their normal conversations while eating the food of their choice.
     Toma's soup was gone shortly after, leaving him only his cup of coffee and doughnuts.
     As I continued to slowly eat the rest of my main food, Toma began to talk about his work.
-    t "So recently, we found this plant called a \“buhana\” near the Green Sea Harbor in the Northwest island of Morford. {w=1.0} Someone had accidently brought it along with them after their trip to the capital there."
+    t "So recently, we found this plant called a \"buhana\" near the Green Sea Harbor in the northwest island of Morford. {w=1.0} Someone had accidently brought it along with them after their trip to the capital there."
     c "I see... {w=3.0} Did you get any new data from it?"
     t "Well, to help you... {w=4.0} Sadly not."
     t "However, I did gather a lot of information that led to another plant which is like a flower in some sense. {w=1.0} It just might be our ticket to the curse."
@@ -115,7 +115,7 @@ label c01_cafeteria:
     t "... {w=4.0} It's funny how someone of your condition can say that so freely."
     Toma didn't say a word after that, nibbling on his food.
     The air surrounding us had become stiffening and uncomfortable; glances shot our direction from the others.
-    He is becoming more and more like a father with each passing day…
+    He is becoming more and more like a father with each passing day...
     [Transition]
     Toma's usual self returned by the time we finished eating. After having a cup of flan with me, we began to walk back towards my room.
     My IV had run out, causing my body to feel weak and my eyelids tired.
@@ -132,7 +132,7 @@ label c01_cafeteria:
     t "Right?!"
     t "Flan is the miracle food that is able to cure anyone's sadness!"
     c "Flan is the miracle food!"
-    Toma and I laughed, as my door became visible to us.
+    Toma and I laughed as my door became visible to us.
     Speaker "Toma Brith, you are needed in the office. {w=1.0} Toma Brith, you are needed in the office."
     t "Aw man, it's that time already? I didn't even notice how late it was!"
     I giggled at Toma's flustered reaction, finding his definition of late amusing.
@@ -179,6 +179,6 @@ label c01_cafeteria:
     c "Ah, but..."
     m "It's fine, go on now Miss Celia."
     I watched Meadow wrap her arms around the boy, easily carrying the boy by the waist into his room.
-    I pressed my lips together, and obediently entered my room.
+    I pressed my lips together and obediently entered my room.
 
     jump c01_end
