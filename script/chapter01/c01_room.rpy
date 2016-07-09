@@ -89,7 +89,7 @@ label c01_room:
     I couldn't do a lot of things because of the bag weighing me down. {w=2.0} If I held it in one arm, it was too painful for me, the needle would move barely an inch and scrape my vein.
     But after meeting Toma, the needle that is usually hooked to the IV bag itself can now detach and hook up to a small vial that I can hold in one hand without hurting myself.
     But because of how small the vial is, my time out of my room is very limited.
-    [Transition\outside of Celia's room]
+    
     The moment I stepped out of my room, I stretched my arms as far as I could, a hum of delight escaping me.
     I giggled as Toma closed the door, his back facing me, and ran to the room across from me.
     t "Hey, Celia! {w=1.0} No running in a hospital, remember?"

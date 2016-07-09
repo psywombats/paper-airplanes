@@ -99,7 +99,7 @@ label c01_cafeteria:
     c "I see... {w=3.0} Did you get any new data from it?"
     t "Well, to help you... {w=4.0} Sadly not."
     t "However, I did gather a lot of information that led to another plant which is like a flower in some sense. {w=1.0} It just might be our ticket to the curse."
-    t "Supposedly, it's a flower called an \“aquaba.\” It's a flower that stores a strange liquid in the head, and only blooms once every full moon."
+    t "Supposedly, it's a flower called an \"aquaba.\" It's a flower that stores a strange liquid in the head, and only blooms once every full moon."
     t "As for its location..."
     Toma fell silent, intensely thinking about something.
     After about two minutes, Toma groaned and slammed his right fist onto the table, causing my food to shake.
