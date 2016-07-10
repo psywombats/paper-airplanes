@@ -8,7 +8,7 @@ label c01_nowhere:
     t "Oh~? {w=2.0} You missed talking with me did you?"
     c "Hehe, I know you certainly have!"
     Toma threw his head back as he laughed, knowing the truth behind my words.
-    t "You got that right. {w=1.0} It's boring working hour after hour with no one to talk to, except for a strict man occasionally.
+    t "You got that right. {w=1.0} It's boring working hour after hour with no one to talk to, except for a strict man occasionally."
     I giggled at Toma's words, and the two of us began to walk.
     With no specific location, we were able to go freely as we pleased. Nothing chaining us down.
     The feeling of freedom, one that only residents of the third floor in the west wing could have, is simply amazing.

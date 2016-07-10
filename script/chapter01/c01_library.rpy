@@ -38,7 +38,7 @@ label c01_library:
     t "The bookshelf right next to us is all about folklore and legends dating all the way back to Ion's time. {w=1.0} I'll be the first to know about anything new around this general area."
     I giggled as Toma made a heart with his hands, pointing it towards the direction of a bookshelf nearby.
     This was the one thing I had always found amusing with Toma.
-    He loves anything about Mion's past era, including the "Old World" era, where our world was at its most hideous state.
+    He loves anything about Mion's past era, including the \"Old World\" era, where our world was at its most hideous state.
     Aside from capital scholars, no one knows the stories from back then {w=1.0} but even for them, all they can do is come up with small and simple theories.
     c "Hehe, well, thank you for letting me know!"
     t "No problem."
@@ -70,19 +70,19 @@ label c01_library:
 
     menu:
         "The white book":
-            $white_book += 1
+            $white_book =+ 1
             c "I'll read the white book."
             t "Alright, then I'll read the green one."
             The two of us slid the books we had claimed close to us as Toma moved the yellow book near the end of the table.
 
         "The green book":
-            $green_book += 1
+            $green_book =+ 1
             c "I'll read the green book."
             t "Alright, then I'll read the yellow one."
             The two of us slid the books we had claimed close to us as Toma moved the white book near the end of the table.
 
         "The yellow book":
-            $yellow_book += 1
+            $yellow_book =+ 1
             c "I'll read the yellow book."
             t "Alright, then I'll read the green one."
             The two of us slid the books we had claimed close to us as Toma moved the white book near the end of the table.
@@ -125,14 +125,14 @@ label c01_library:
     c "You should know better than anyone not to do that!"
     t "Yeah, yeah, you're right. {w=2.0} Again, sorry."
     t "Anyway, the real bear here is your stomach."
-    t "While you were reading, your stomach was growling away. {w=1.0} At first, I really did think that there was a bear in here.
+    t "While you were reading, your stomach was growling away. {w=1.0} At first, I really did think that there was a bear in here."
     c "Ah... {w=4.0} Now that you mention it, I do feel rather hungry."
     Toma stood up from his chair, chuckling softly as he grabbed the book he was reading as well as the extra one.
     t "Well, how about the two of us grab something to eat?"
     c "Hm?"
     t "Your old man gave me my pay today, so I can buy you something in the cafeteria."
     t "I can even buy you some flan!"
-    I smiled at the word "flan", happily standing up from my seat with the book close to my chest.
+    I smiled at the word \"flan\", happily standing up from my seat with the book close to my chest.
     Toma and I walked towards the entrance of the library, stopping at the checkout counter where the librarian - who is also a nurse - waited.
     t "Can you return these for me?"
     The librarian smiled and nodded.
@@ -145,7 +145,7 @@ label c01_library:
     Even the librarian was ordered to call me by that name.
     A stiffening silence fell over Toma and I as we patiently watched the Librarian swiftly checking out the book.
     With a loud thump from the check out stamp that printed the date of return on a little sheet, the librarian offered the book back to me.
-    Librarian "I apologize for the wait. Here you are Miss Celia."
+    librarian "I apologize for the wait. Here you are Miss Celia."
     My body flinched as she called me by that name once again, hesitantly taking the book back.
     t "...Alright then. {w=1.0} Let's have lunch, Celia."
     c "... {w=6.0} Yes, let's do that."
@@ -156,7 +156,7 @@ label c01_library:
     c "Ah, well... I suppose so."
     t "What's it about?"
 
-    if $white_book == 1:
+    if white_book:
         c "Well, it seems to be about a little girl who is cursed with a strange white flower, {w=1.0} but because she likes the flower so much, she tries to sell it to the other villagers."
         c "However, no one would buy it from her, because of the curse..."
         t "Huh... {w=4.0} Now I understand why you like it."
@@ -165,7 +165,7 @@ label c01_library:
         c "Oh my, so it was a survival type of story?"
         t "I guess. {w=2.0} Unlike you, Celia, I just read books to pass time. Not as a way of entertainment."
 
-    if $green_book == 1:
+    if green_book:
         c "Well, it seems to be about a bunch of children taking care of one another after all the adults in the island vanished. {w} Thankfully, a ship from the city found the island and offered to take the children there to look for their parents."
         c "As for the rest of the story, I haven't gotten that far yet."
         t "Huh... {w=4.0} I didn't know you were into survival."
@@ -175,7 +175,7 @@ label c01_library:
         c "Really?! {w=1.0} That sounds interesting. Why didn't you get it?"
         t "Haha, well it wasn't my thing. {w=2.0} Unlike you, Celia, I just read books to pass time, not as a way of entertainment."
 
-    if $yellow_book == 1:
+    if yellow_book:
         c "Well, it seems to be about a girl in highschool who is half human and half Bulakka. {w} She has a really sad past, and to move on from it, she joins a drama club that her uncle runs."
         c "I stopped on the sixth chapter, so I don't know anything else from that point."
         t "Sheesh, talk about girly. {w=1.0} I understand why you like it."

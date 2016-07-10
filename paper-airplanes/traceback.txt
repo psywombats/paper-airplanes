@@ -1,29 +1,21 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
-While parsing C:\Users\aking_2\paper-airplanes\paper-airplanes/game/script.rpy.
-UnicodeDecodeError: 'utf8' codec can't decode bytes in position 8116-8117: invalid continuation byte
+While running game code:
+  File "game/script.rpy", line 211, in script
+    jump c01_end
+ScriptError: could not find label 'c01_end'.
 
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
-  File "C:\Users\aking_2\Desktop\renpy-6.99.10-sdk\renpy\bootstrap.py", line 277, in bootstrap
-    renpy.main.main()
-  File "C:\Users\aking_2\Desktop\renpy-6.99.10-sdk\renpy\main.py", line 354, in main
-    renpy.game.script.load_script() # sets renpy.game.script.
-  File "C:\Users\aking_2\Desktop\renpy-6.99.10-sdk\renpy\script.py", line 259, in load_script
-    self.load_appropriate_file(".rpyc", ".rpy", dir, fn, initcode)
-  File "C:\Users\aking_2\Desktop\renpy-6.99.10-sdk\renpy\script.py", line 711, in load_appropriate_file
-    data, stmts = self.load_file(dir, fn + source)
-  File "C:\Users\aking_2\Desktop\renpy-6.99.10-sdk\renpy\script.py", line 538, in load_file
-    stmts = renpy.parser.parse(fullfn)
-  File "C:\Users\aking_2\Desktop\renpy-6.99.10-sdk\renpy\parser.py", line 2417, in parse
-    lines = list_logical_lines(fn, filedata, linenumber)
-  File "C:\Users\aking_2\Desktop\renpy-6.99.10-sdk\renpy\parser.py", line 185, in list_logical_lines
-    data = f.read()
-  File "/home/tom/ab/x64lucid-deps/install/lib/python2.7/codecs.py", line 674, in read
-  File "/home/tom/ab/x64lucid-deps/install/lib/python2.7/codecs.py", line 480, in read
-UnicodeDecodeError: 'utf8' codec can't decode bytes in position 8116-8117: invalid continuation byte
+  File "game/script.rpy", line 211, in script
+    jump c01_end
+  File "C:\Users\aking_2\Desktop\renpy-6.99.10-sdk\renpy\ast.py", line 1520, in execute
+    rv = renpy.game.script.lookup(target)
+  File "C:\Users\aking_2\Desktop\renpy-6.99.10-sdk\renpy\script.py", line 843, in lookup
+    raise ScriptError("could not find label '%s'." % str(original))
+ScriptError: could not find label 'c01_end'.
 
 Windows-8-6.2.9200
 Ren'Py 6.99.10.1227
- 
+paper-airplanes 0.0

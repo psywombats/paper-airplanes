@@ -93,8 +93,44 @@ public class CombinatorJob {
 	 */
 	protected void cat(BufferedReader reader, BufferedWriter writer) throws IOException {
 		while (reader.ready()) {
-			writer.write(reader.readLine() + "\n");
+			String line = reader.readLine();
+			String convertedLine = convertLine(line);
+			writer.write(convertedLine);
 		}
 		writer.write("\n");
+	}
+	
+	/**
+	 * Converts a single line from phantom format to rpy format.
+	 * @param	sourceLine			The source line to convert, in phantom format
+	 * @return						That line in rpy format
+	 */
+	protected String convertLine(String sourceLine) {
+		String converted = sourceLine;
+		if (converted.trim().startsWith("[") || converted.trim().startsWith("{")) {
+			converted = "";
+		}
+		if (sourceLine.trim().startsWith("..") || sourceLine.trim().startsWith("\\") || (beginsWithUpper(sourceLine))) {
+			String text = sourceLine.trim();
+			int startIndex = sourceLine.indexOf(text);
+			converted = sourceLine.substring(0, startIndex) + "\"" + text + "\"";
+		}
+		converted += "\n";
+		return converted;
+	}
+	
+	/** 
+	 * Checks if the given line begins with a lower case character.
+	 * @param	line				The line to check
+	 * @return						True if begins with lower, false otherwise
+	 */
+	protected boolean beginsWithUpper(String line) {
+		if (line.trim().length() < 1) {
+			return false;
+		}
+		if (!Character.isAlphabetic(line.trim().charAt(0))) {
+			return false;
+		}
+		return Character.isUpperCase(line.trim().charAt(0));
 	}
 }

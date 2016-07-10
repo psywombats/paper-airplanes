@@ -60,7 +60,7 @@ label c01_room:
     Nyu shook her head in disapproval at my hard work, causing me to giggle nervously.
     c "Oh come on, it isn't that bad..."
     Nyu puffed out her cheeks, placing her stubby paws on her hips.
-     It looks like she isn't going to change her opinion.
+    It looks like she isn't going to change her opinion.
     I puffed out my own cheeks as I turn the paper back towards me to gaze at the picture.
     c "Well I think it looks good enough..."
     As I stared at my picture of Nyu, a sudden knock on the door caught my attention.
@@ -115,8 +115,8 @@ label c01_room:
         "The library":
             jump c01_library
 
-        "The Cafeteria":
-            $direct_cafeteria += 1
+        "The cafeteria":
+            $direct_cafeteria =+ 1
 
             c "Let's go to the cafeteria!"
             Toma let’s out a soft chuckle, most likely expecting me to say something that.

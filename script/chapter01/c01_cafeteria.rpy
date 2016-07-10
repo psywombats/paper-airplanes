@@ -27,21 +27,21 @@ label c01_cafeteria:
     Perhaps it was just me, but I had always enjoyed sitting in a low light area. {w=1.0} The strong heat coming off of the lightbulbs and the bright light shining had always bothered me.
     Once I reached the lonesome table, I pulled out a chair and sat down, facing the rest of the cafeteria.
 
-    if $white_book == 1:
+    if white_book == 1:
         I placed my book down in front of me, staring blankly at the white colored cover.
         A little girl, unfortunately cursed by something so beautiful and fragile as a flower...
         A sad tale, but I had found comfort in it. {w} Perhaps it was because of the \"curse\" the little girl had?
         The curse that had fallen upon my mother and me versus the curse that fell on the fictional child... {w=4.0} So different and yet so similar.
         A gentle sigh escaped my lips, turning into a soft hum halfway.
 
-    if $green_book == 1:
+    if green_book == 1:
         Innocent children, waking up one morning to find their parents and close relatives gone...
         I couldn't help but feel sorry for them.
         Their ages varied from eight to eighteen, all with their own powers and unique personalities.
         What would I do if Meadow had vanished, I wonder...
         Meadow is like a mother and yet an older sister to me. {w=2.0} I wouldn't know what to do if she was gone...
 
-    if $yellow_book == 1:
+    if yellow_book == 1:
         A human girl, half human and half Bulakka.
         I can only imagine that she has been bullied a lot in her past...
         And yet, she tries really hard to move forward from her past, joining her funny uncle in his drama club.
@@ -51,7 +51,7 @@ label c01_cafeteria:
         I shook my head violently, trying to desperately to keep the sad thoughts away.
         If only forever...
 
-    if $direct_cafeteria == 1:
+    if direct_cafeteria == 1:
         As I waited patiently for Toma to arrive with our food, I began to hum a little tone to myself.
         The melody was off key and the tone was horrible.
         I giggled a little to myself at my horrible humming skills, finding it fun nonetheless.
@@ -60,20 +60,20 @@ label c01_cafeteria:
     I lifted my head up in surprise. Toma's perky voice snapped me to reality.
     Toma smiled brightly as he held two trays, placing the one on his right hand down in front of the empty seat in front of me.
 
-    if $white_book == 1:
+    if white_book:
         I quickly removed the book from the table, setting it on my lap as the tray on Toma's left hand is set down in front of me.
 
-    if $green_book == 1:
+    if green_book:
         I quickly removed the book from the table, setting it on my lap as the tray on Toma's left hand is set down in front of me.
 
-    if $yellow_book == 1:
+    if yellow_book:
         I quickly removed the book from the table, setting it on my lap as the tray on Toma's left hand is set down in front of me.
 
-    if $lunch_usual == 1:
+    if lunch_usual:
         The meal consisted of a small serving of white rice and thin slices of juicy, tender beef.
         A small plate of various vegetables accompanied my food, along with a small teacup filled with honey lemon tea.
 
-    if $lunch_usual == 1:
+    if lunch_special:
         The meal consisted of a small bowl of thin noodles, bathed in a salty broth and topped with eggs and green onions.
         Two small pieces of toasted bread lay on top of a plate next to the bowl and a small cup of honey-lemon tea.
 
@@ -133,7 +133,7 @@ label c01_cafeteria:
     t "Flan is the miracle food that is able to cure anyone's sadness!"
     c "Flan is the miracle food!"
     Toma and I laughed as my door became visible to us.
-    Speaker "Toma Brith, you are needed in the office. {w=1.0} Toma Brith, you are needed in the office."
+    speaker "Toma Brith, you are needed in the office. {w=1.0} Toma Brith, you are needed in the office."
     t "Aw man, it's that time already? I didn't even notice how late it was!"
     I giggled at Toma's flustered reaction, finding his definition of late amusing.
     Toma's break time can go as long as five hours every other day; he is released from the office at 11:25 and has to return by 4:30.
@@ -160,7 +160,7 @@ label c01_cafeteria:
     I recalled Toma's words about the accident victim losing something valuable. {w=1.0} That boy must be the new resident then!
     My face lit up at the realization. {w=1.0} There was a new resident who was about the same age as me!
     A chance to make a new friend!
-    ??? "Where do you think you're going?"
+    who "Where do you think you're going?"
     I flinched at the voice, instantly recognising it to be Meadow's.
     I turned around and saw Meadow marching forward, a serious and slightly surprised look on her face.
     c "Oh, hello Meadow!"
@@ -181,4 +181,4 @@ label c01_cafeteria:
     I watched Meadow wrap her arms around the boy, easily carrying the boy by the waist into his room.
     I pressed my lips together and obediently entered my room.
 
-    jump c01_end
+    return

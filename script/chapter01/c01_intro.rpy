@@ -1,4 +1,4 @@
-label start:
+label c01:
 
     [NVL format]
     Somewhere in the vast world of Mion, above where Ion sleeps, there is a meadow.
@@ -17,7 +17,7 @@ label start:
     "\"Um... I'm not sure, Mama. What is it?\""
     The daughter replied, unsure of where the conversation was going.
     The mother chuckled softly - a hint of sadness hidden in it - and placed her flower crown beside her.
-    "\"Our curse.|""
+    "\"Our curse.\""
     The mother muttered under her breath, barely whispering.
     She suddenly stood up, causing her daughter to tilt her head to the side.
     "\"Hm? {w=3.0} Are you going somewhere, Mama?\""
@@ -53,7 +53,7 @@ label start:
     Needing to calm myself, I listened to the soft ticking of the clock and the gentle beeping of the heart monitor.
     How long have I awoken to that same dream? {w=2.0} Possibly for three or four years now...
     Although, now that I think about it, that was the first time that mother had said something to me before she left.
-    Before, it used to be nothing more than a simple "goodbye" and leave the child me in the dream.
+    Before, it used to be nothing more than a simple \"goodbye\" and leave the child me in the dream.
     Maybe if I fall back to sleep, I can catch up to her and ask what she meant?
     ...No, dreams don't work like that.
     Dreams - at least the ones you have while you're asleep - are meant to fulfill the strongest desires from your heart, right?
@@ -107,7 +107,7 @@ label start:
     Nyu pointed at the card with confidence, huffing excitedly.
     I glanced back to the card, wondering what secrets it had.
     I began to twirl the card around, eyeing each corner of it for clues when I notice three letters on the back.
-    who "\"H.B.C"\...?"
+    who "\"H.B.C\"...?"
     I tilted my head in confusion at the three mysterious letters.
     I had a feeling that they meant something, but as I was still groggy from my sleep, I couldn't interpret the meaning.
     Was it some sort of secret code? {w} A code that could release Nyu's true form of ultimate fluffiness?!
@@ -120,7 +120,7 @@ label start:
     She had died the very same day, if not the exact moment, I was born.
     Today is a day of joy, and yet it is also a day of sadness.
     A majority of my friends mainly remembered today as Mother's death...
-    With a soft sigh, I quickly shook my head at the thought of "sadness", not wanting to ruin my birthday.
+    With a soft sigh, I quickly shook my head at the thought of \"sadness\", not wanting to ruin my birthday.
     I'm sure my mother wouldn't have wanted me to be sad on such a special day.
     The \"H.B.C\" must stand for \"Happy Birthday Celia.\" {w} They are the three letters that Nyu could manage to write.
     I looked over to Nyu and smiled.
@@ -143,7 +143,7 @@ label start:
     m "Huh? {w=3.0} {i}Miss{/i} Meadow?"
     I couldn't help but chuckle nervously at Meadow's response. 
     Did she not notice how she called me \"Miss Celia\"?
-    c "Well, you called me \"Miss Celia\"". {w} I'm assuming that this is a new name game?"
+    c "Well, you called me \"Miss Celia\". {w} I'm assuming that this is a new name game?"
     Meadow blinked in surprise before laughing at my explanation, placing the tray of food on my lap.
     m "No, no, it's not a name game!"
     m "I've been ordered to call you \"Miss Celia\" as a symbol of your 14th birthday. You're practically a young lady now!"
