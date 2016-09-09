@@ -90,11 +90,11 @@ label c01_library:
     Toma instantly opened up the cover and began to read, his head resting on his left hand as his eyes slowly scanned the words.
     While Toma read his book in the most indifferent way possible, I looked over to the right of me, where the window we had sat next to glowed its normal radiance of pure sunlight.
     There, right in front of the window, was a field of white.
-    But not of snow. {w=1.0} It was a field of daisies.
+    But not of snow. {w=1.0} It was a field of daiories.
     Normally, such a plain flower wouldn't be so beautiful, {w=1.0} but the sight of a field of white petals gently swaying in the wind, glowing in the rays of the sun, makes them much more appealing than normal.
     On windy spring days, the petals would break off of the main stem, and join the wind in its reckless dancing.
-    On wet rainy days, the daisies continued to glow a soft white color above them, as if the rain was supplying them with a new layer.
-    It was because of those daisies... {w=3.0} That I have grown to love this spot most in the entire library.
+    On wet rainy days, the daiori continued to glow a soft white color above them, as if the rain was supplying them with a new layer.
+    It was because of those daiories... {w=3.0} That I have grown to love this spot most in the entire library.
     The thought of a simple flower being able to outshine its plain appearance soothes me.
     With a small smile, I looked down at my book, opened the cover and began to read.
     [Transition]
@@ -125,8 +125,9 @@ label c01_library:
     c "You should know better than anyone not to do that!"
     t "Yeah, yeah, you're right. {w=2.0} Again, sorry."
     t "Anyway, the real bear here is your stomach."
+    I blinked in surprise at Toma's words and touched my stomach, as if trying to read its hunger rate.
     t "While you were reading, your stomach was growling away. {w=1.0} At first, I really did think that there was a bear in here."
-    c "Ah... {w=4.0} Now that you mention it, I do feel rather hungry."
+    c "Ah... {w=4.0} Now that you mention it, I \do\ feel rather hungry."
     Toma stood up from his chair, chuckling softly as he grabbed the book he was reading as well as the extra one.
     t "Well, how about the two of us grab something to eat?"
     c "Hm?"
