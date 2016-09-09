@@ -4,7 +4,7 @@ label c01:
     Somewhere in the vast world of Mion, above where Ion sleeps, there is a meadow.
     The meadow has a secret that only those with the curse may know. {w=4.0} Not even the dark lord who watches over them, Kxon, knows where this meadow lies.
     The meadow is surrounded by tall, healthy, and green alder trees beneath a bright blue sky, creating a peaceful tranquility.
-    It is a meadow filled with flowers that virtually cover the green grass. {w=4.0} The lovely flowers vary from yellow carnations, cosmos, irises, jasmines, lilies, orchids, to white roses.
+    It is a meadow filled with flowers that virtually cover the green grass. {w=4.0} The lovely flowers vary from yellow, red, blue, purple, and white.
     In this meadow, flower petals dance elegantly in the gentle spring breeze, never learning of the cold and harsh touch of winter.
     The tall alder trees protect the flowers at their base from the small drops of rain, causing the green grass to shine in the dew of the water.
     Amidst this beauteous scenery, {w=2.0} there is a young mother and her daughter, calmly making flower crowns while listening to the soothing lullabies from the wind.
