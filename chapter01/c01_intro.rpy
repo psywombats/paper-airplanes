@@ -8,7 +8,7 @@ label start:
     {Worms view of meadow}
     The meadow is surrounded by tall, healthy, and green alder trees beneath a bright blue sky, creating a peaceful tranquility.
     {Picture of meadow}
-    It is a meadow filled with flowers that virtually cover the green grass. [Pause] The lovely flowers vary from yellow carnations, cosmos, irises, jasmines, lilies, orchids, to white roses.
+    It is a meadow filled with flowers that virtually cover the green grass. [Pause] The lovely flowers vary from yellow, red, blue, purple, and white.
     In this meadow, flower petals dance elegantly in the gentle spring breeze, never learning of the cold and harsh touch of winter.
     {Up close picture of grass with water droplets, flower and trees in the distance}
     The tall alder trees protect the flowers at their base from the small drops of rain, causing the green grass to shine in the dew of the water.
