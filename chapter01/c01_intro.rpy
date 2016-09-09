@@ -149,7 +149,7 @@ label start:
     I raised an eyebrow at Meadow's greeting, surprised at what she has called me.
     That was the first time she had called me "Miss Celia".
     c "Good morning, Miss Meadow!"
-    Meadow blinkrf several times in surprise as she stopped beside the bed, a surprised look on her face.
+    Meadow blinked several times in surprise as she stopped beside the bed, a surprised look on her face.
     m "Huh? [Pause] Miss Meadow?"
     I couldn't help but chuckle nervously at Meadow's response. 
     Did she not notice how she called me "Miss Celia"?
